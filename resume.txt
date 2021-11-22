@@ -1,0 +1,27 @@
+MY_NAME
+
+MY_UNIVERSITY
+MY_UNIVERSITY_ADDRESS
+MY_UNIVERSITY_EMAIL_ADDRESS
+MY_PHONE_NUMBER
+MY_WEBSITE
+
+Education
+
+   * SCHOOL_NAME
+   - DATE
+   - DEGREE TYPE
+   - CGPA
+
+Work Experience
+
+   * PLACE AND POSITION. DATE
+   - RESPONSIBILITIES
+
+Awards
+
+   * AWARD - DATE
+
+Research Experience
+
+Programming Languages
