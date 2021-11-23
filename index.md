@@ -8,7 +8,7 @@ title: Home
 
 # _Hello—_ 
 **tl;dr:**
-- I'm Caleb.....................
+- I'm Caleb
 - I work as a Software Engineer. And sometimes a faux essayist too.
 - I’m interested in _Distributed Data_ & _Optimization_ Systems.
 - I write essays around tech, economics, finance, and "the human condition."
