@@ -2,7 +2,7 @@
 layout: booknote
 title: "Ideas and Textures."
 feature-image: /assets/images/author-image.png
-permalink: /:year/:month/:day/
+permalink: /:year/:month/:day/:title
 tags: test psychology
 ---
 

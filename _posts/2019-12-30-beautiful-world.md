@@ -2,7 +2,7 @@
 layout: note
 title: "presence and other observations"
 feature-image: /assets/images/author-image.png
-permalink: /:year/:month/:day/
+permalink: /:year/:month/:day/:title
 tags: test psychology
 ---
 
