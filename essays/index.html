@@ -15,6 +15,7 @@ permalink: essays/
             {% endif %}
             <div class=content>
                 {{ post.excerpt | markdownify }}
+                <a href="{{ post.url }}">...Continue reading</a>
             </div>
             {% include post-meta.html %}
         </div>
