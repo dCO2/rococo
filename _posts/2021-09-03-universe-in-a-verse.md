@@ -6,7 +6,6 @@ permalink: /:year/:month/:day/:title
 tags: language speech reality
 ---
 
-%%08-11-2021%%
 I've been trying to understand this idea that reality cannot be described completely with language. And I think understanding a thing is realizing how that thing relates to other things; realizing its connections and the boundaries of its connections.
 
 Although it is possible to describe a video game reality using codes (a type of language), there is a limit to the granularity one can get. Any attempt at zooming in and in and in usually ends up at a blotch of colors on the computer screen.
