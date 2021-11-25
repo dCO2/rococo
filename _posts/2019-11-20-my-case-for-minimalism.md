@@ -2,7 +2,7 @@
 layout: post
 title: "The Case for Minimalism"
 feature-image: /assets/images/author-image.png
-permalink: /:year/:month/:day/
+permalink: /:year/:month/:day/:title
 tags: psychology design art
 ---
 
