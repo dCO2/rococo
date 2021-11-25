@@ -1,0 +1,161 @@
+---
+layout: booknote
+title: "Algorithms to Live By"
+feature-image: /assets/images/author-image.png
+permalink: /:year/:month/:day/:title
+tags: computer-sci decision-making
+---
+
+
+- Optimal Stopping
+- Committing to or forgoing a succession of options is a structure that appears in life again and again, in slightly different incarnations.
+	- How many times to circle the block before pulling into a parking space?
+	- How far to push your luck with a risky business venture before cashing out?
+	- How long to hold out for a better offer on that house or car?
+- What should we do, and leave undone, in a day or in a decade?
+- What degree of mess should we embrace—and how much order is excessive?
+- What balance between new experiences and favored ones makes for the most fulfilling life?
+- How should a processor allocate its “attention” to perform all that the user asks of it, with the minimum overhead and in the least amount of time?
+- When should it switch between different tasks, and how many tasks should it take on in the first place?
+- What is the best way for it to use its limited memory resources?
+- Should it collect more data, or take an action based on the data it already has?
+- how to manage
+	- finite space,
+	- finite time,
+	- limited attention,
+	- unknown unknowns,
+	- incomplete information,
+	- and an unforeseeable future
+		- how to do so with grace and confidence;
+		- and how to do so in a community with others who are all simultaneously trying to do the same.
+
+
+### Content
+- %%Optimal Stopping (When to Stop Looking)%%
+- Explore/Exploit (The Latest vs. the Greatest)
+	- Why should you explore? Can any case be made for exploration?
+	- What are examples of patterns of exploratory behavior we find in the environment, in nature?
+	- Do i read a new book or reread an old one?
+		- Youre reading many books. When should you decide to reduce the rate at which you read new books so you can reread old ones?
+	- Do I watch a new movie or rewatch an old one?
+		- To answer this, i'd need to have a reason rewatch that old movie
+			- maybe there was a detail that i realized i missed
+			- or i want to understand the movie more indepth
+			- or i want to memorise the movie
+			- or i want to reexperience the moive's entertainment
+		- If i want to watch a new movie, it's usually because i simply want to keep up with what's new. I want a new experience.
+			- I want to join in onee the social discussion
+			- I want to see what's next in the sequel
+		- There's usually not much decision i do here. I don't need some 37% principle to tell me when to rewatch something old.
+		- But still i imagine at what age am i gonna stop watching new films?
+			- At what age am i gonna start rewatching movies because i definitely did not watch it indepthly enough after first watch?
+		- But then this simplifies too much because we don't plan when to watch and rewatch like this. There is no particular age at which we stop watching new movies all together.
+			- Usually, we just rewatch things when we feel like it as we continue watching new ones
+	- I know that it is one particular restaurant we usually go to. It is one particular barber we usually go to. It is one particular network provider we mostly go to. It is one particular drink we usually like. It is one particular trusted service we usually patronize/exploit.
+		- At what time should we try some other service. Never?
+	- I'll only explore when I have the resources to do so. That is, when i'm not tired, not lazy, when i have the money, when i feel pumped. I'll exploit when i'm lazy. So tell me, why would i need the 37% principle at all?
+	- I was to cook rice. I wanted to choose between cooking the regular rice or cooking parboiled rice. It's been a while since I cooked. But I've cooked more regular rice than parboiled rice. Then, I can still frame this in a explore/expolit framework. Do I exploit my tested and trusted skill for regular rice or "explore" cooking parboiled rice? I explored and it wasn't good.
+	- Generally, i'm in favour of exploration: "Fuck around and find out." But I guess we have to strike a balance between not exploring and exploring?
+	- It is in exploration that new things are discovered.
+	- If i'm being lazy all day round, if i tend to minimize the rate of new experiences, then the life i'll lead will be a mellow one.
+	- It is interesting to embrace change and novelty.
+		- But still, we should find a balance between exploiting (or having a deeper relationship with) what we've experienced and experiencing new things.
+	- Would i want to call "not exploring" an exploitation?
+		- "Not exploring" could simply mean I'm idle doing nothing. I'm not exploiting anything
+	- If the source of the experiences you'll be encountering will evventually disappear, try to explore for some time and exploit more towards the end of their disappearance.
+	- I have my entire life ahead of me. I should explore more and curate the bests that i find and also exploit them.
+	- By experiencing, youre looking for some local maximum. You want to be optimistic that there are more maximums out there. But still, you can sit in your local minimum and enjoy the experience of being there
+	- Cases where the explore/exploit tradeoff is observable:
+		- Given several different chemical compounds, what is the quickest way to determine which compound is likely to be effective against a disease?
+		- A/B testing
+	- Conclusion:
+		- Fuck around, 
+		- Gather data.
+		- It's what a baby does.
+		- But pay attention to the time you have left.
+		- Pay attention to the time (that data) or (the source of that experience) or (you) might disappear
+		- And so enjoy the local or global maxima of the experiences you have seen before they disappear.
+		- Before you disappear
+		- .
+		- Hence childhood: “Childhood gives you a period in which you can just explore possibilities, and you don’t have to worry about payoffs because payoffs are being taken care of by the mamas and the papas and the grandmas and the babysitters.”
+		- But pressing buttons at random, being very interested in new toys, and jumping quickly from one thing to another are all things that kids are really great at. And those are exactly what they should be doing if their goal is exploration. If you’re a baby, putting every object in the house into your mouth is like studiously pulling all the handles at the casino.
+		- 
+		- life should get better over time. What an explorer trades off for knowledge is pleasure
+		- But at the same time, this means that exploration necessarily leads to being let down on most occasions. Shifting the bulk of one’s attention to one’s favorite things should increase quality of life. 
+- Sorting (Making Order) ^0a5d71
+	- [[the sorting problem]], [[why do we need to sort things?]]
+	-  We sort people
+		- We want to know what "category" of people they belong; "Oh you're an engineer," "Oh you're the type of person that doesn't like swallows," "Oh, you're christian" etc, etc.
+		- We want to know who's richer than who
+			- who's stronger than who
+			- who's more beautiful
+			- who's smarter.
+	- The Ecstacy of Sorting
+		- The Hollerith Machine (Adopted by the U.S government fro the 1890 census)
+		- Hollerith’s firm merged with several others in 1911 to become the "Computing-Tabulating-Recording Company." This later became IBM.
+		- Search engines like google are really sort engines because they sort the webpages of the result of our search so well giving us what we really need.
+		- "The truncated top of an immense, sorted list is in many ways the universal user interface." 
+	- The Agony of Sorting
+		- J. C. Hosken in 1955, wrote the first scientific article published on sorting: “To lower costs per unit of output, people usually increase the size of their operations,”
+		- The more there is to sort, the difficult it is. This is unlike the fact that the more there is to produce, the easier it could get.
+	- Big-O: A Yardstick for the Worst Case
+	- The Squares: Bubble Sort and Insertion Sort
+	- Breaking the Quadratic Barrier: Divide and Conquer
+		- Is there a "speed limit" for sorting? Is there a sorting barrier? (See: [[the sorting problem#^959f55]])
+	- Beyond Comparison: Outsmarting the Logarithm
+		- sometimes you don’t need a fully ordered set—and sometimes sorting can be done without any item-to-item comparisons at all.
+		- These two principles, taken together, allow for rough practical sorts in faster than linearithmic.
+		- This is beautifully demonstrated by the **Bucket Sort algorithm**—of which **the Preston Sort Center** is a perfect illustration.
+	- Sort Is Prophylaxis for Search
+		- What is the relationship between sorting a collection of things and searching for a thing in that collection?
+		- You'd notice that if the collection of things is chaotic (unsorted, disordered) then it becomes difficult to search for what you're looking for. If it is sorted, it is easier to search.
+		- But then another question is; how often do you access that collection? 
+		- If it is a collection you access frequently, searching for things will also be frequent. It will be wise to have the collection sorted so searching can be easy
+		- It is a collection you don't access frequently, sorting that collection will be unnecesary.
+		- **In short:** "Sorting something that you will never search is a complete waste; searching something you never sorted is merely inefficient"
+		- So, if you don't want to waste your time sorting something you are not currently using, how do you determine whether you will need to access and search it in the future?
+		- **In short:** "How do we estimate ahead of time what our future usage will be"
+		- Well, we can always keep it sorted (by making sure insertion into the colection is orderly) and save ourselves all the stress.
+	- Sorts and Sports
+		- Lewis Caroll wrote “Lawn Tennis Tournaments: The True Method of Assigning Prizes with a Proof of the Fallacy of the Present Method.” complaining that “The present method of assigning prizes is, except in the case of the first prize, entirely unmeaning.” Said plainly, the silver medal is a lie.
+	- Griping Rights: Noise and Robustness
+		- What are **Robust Algorithms"?
+		- "...the research of Michael Ackley and his collaborators suggests that there may be a place for algorithms like Bubble Sort after all. Its very inefficiency—moving items only one position at a time—makes it fairly robust against noise, far more robust than faster algorithms like Mergesort, in which each comparison potentially moves an item a long way. Mergesort’s very efficiency makes it brittle..."
+	- Blood Sort: Pecking Orders and Dominance Hierarchies
+		- In online poker (only online poker?), the professional poker player, as an important skill, should be abele to evaluate just how good they are.
+		- “So if you want to play heads-up no-limit, with blinds of fifty and one hundred dollars, there are only ten available tables for that,” says Haxton, “and so only the consensus ten best players who are out right now … sit and wait for someone to show up who wants to play.” And if a superior player arrives and sits down at one of these tables? If the person sitting isn’t willing to ante up, they scram.
+		- “Imagine two monkeys,” says Christof Neumann. “One is sitting and feeding in its spot, very peacefully, and another one is coming up to where the other guy is sitting. And that guy would then stand up and leave.”
+		- This is called _displacement_
+		- "Displacement happens when an animal uses its knowledge of the hierarchy to determine that a particular confrontation simply isn’t worth it"
+		- "Though we may cringe when we see creatures turning their claws and beaks on each other, biologists tend to think of pecking orders as the violence that preempts violence. Sound familiar? It’s the search-sort tradeoff."
+		- "The creation of a pecking order is a pugilistic solution to a fundamentally computational problem."
+		- "For this reason, incidentally, debeaking chickens on farms may be a well-intentioned but counterproductive approach: it removes the authority of individual fights to resolve the order, and therefore makes it much harder for the flock to run any sorting procedure at all."
+		- "So the amount of antagonism within the flock in many cases actually increases."
+		- "Looking at animal behavior from the perspective of computer science suggests several things. For one, it implies that the number of hostile confrontations encountered by each individual will grow substantially—at least logarithmically, and perhaps quadratically—as the group gets bigger."
+		- "The key to thinking about decentralized sorting in nature, argues Jessica Flack, codirector of the Center for Complexity and Collective Computation at UW–Madison, is that dominance hierarchies are ultimately _**information hierarchies.**_"
+	- A Race Instead of a Fight
+		- "There are ways of making order without the costs.
+		- "There’s one sporting contest, for instance, where tens of thousands of competitors are completely sorted within the time that it takes to hold just a single event.
+		- "(A Round-Robin tournament with ten thousand players, on the other hand, would require a hundred million matchups.)
+		- "This sporting contest is the marathon, and it suggests something critical:
+			- "a race is fundamentally different from a fight.
+		- "Consider the difference between boxers and skiers, between fencers and runners.
+		- "This move from “ordinal” numbers (which only express rank) to “cardinal” ones (which directly assign a measure to something’s caliber) naturally orders a set without requiring pairwise comparisons.
+		- "Having a benchmark—any benchmark—solves the computational problem of scaling up a sort.
+		- "Much as we bemoan the daily rat race, the fact that it’s a race rather than a fight is a key part of what sets us apart from the monkeys, the chickens—and, for that matter, the rats"
+- Caching (Forget About It)
+- Scheduling (First Things First)
+- Bayes’s Rule (Predicting the Future)
+- Overfitting (When to Think Less)
+- Relaxation (Let It Slide)
+- Randomness (When to Leave It to Chance)
+- Networking (How We Connect)
+- Game Theory (The Minds of Others)
+- Conclusion (Computational Kindness)
+
+
+### See also:
+- [Reviews on Amazon](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/product-reviews/1627790365/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews)
+- [reddit AMA](https://www.reddit.com/r/IAmA/comments/5ijxx2/we_are_the_authors_of_algorithms_to_live_by_the/)
+- [slatestarcodex](https://www.reddit.com/r/slatestarcodex/comments/baadb5/should_you_live_by_algorithms_to_live_by/)
+- [reddit - A comprehensive list of books that will help you think clearly](https://www.reddit.com/r/books/comments/ka6spy/a_comprehensive_list_of_books_that_will_help_you/)
