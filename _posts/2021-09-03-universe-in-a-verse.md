@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "You can't fit the Universe in a Verse"
+title: "you can't fit the universe in a verse"
 feature-image: /assets/images/federico-beccari-L8126OwlroY-unsplash.jpg
-feature: 1
+feature: 0
 permalink: /:year/:month/:day/:title
 tags: language speech reality
 ---
