@@ -9,7 +9,7 @@ tags: essay
 
 - **Here's a problem**: Memory is fallible. But we need to learn, we need to remember. And our learning should acrete. How do we systemize this?
 
-- **Even another:** When you see a work of art stand before you, or you before it, you sometimes marvel at the constellation of processess that made such an object or being or piece of work, in its full glory, possible. Everything looks just right, well oiled. The parts seem to flow and glide from one to the next. You see a work of art and want to follow its cadence and flow in your work. How do you do it?
+- **Even another:** When you see a work of art stand before you, or you before it, you sometimes marvel at the constellation of processess that made such an object or being or piece of work, in its full glory, possible. Everything looks just right, well oiled. The parts seem to flow and glide from one to the next. You see a work of art and want to follow its cadence and flow in your work too. How do you do it?
 
 - Maybe you'd sit with your question—in bed, in the shower, at the yard.
 - No one will give you an answer. It is one you have to discover. Poetry.
