@@ -19,4 +19,4 @@ It seems like I'm telling you stuff, telling you facts. But I'm really not. Thes
 
 Loops and channels. Streams. Routines. Ritual. That don't have to take up too much of your attention. It just happens. Order comes eventually.  
   
-What questions will I be asking? With be a background in math and physics and computer science and electronics & software engineering, philosophy and economics? I wanted to add Poetry but poetry is not a discipline. Poetry is a tool.... Icing on the cake. It is what you use when you want to aggregate a beautifully nuanced "broth" of these different "fields"... "From delight to wisdom" as Frost said.
+What questions will I be asking? With be a background in math and physics and computer science and electronics & software engineering, philosophy and economics? I wanted to add Poetry but poetry is not a discipline. Poetry is a state. A tool.... Icing on the cake. It is what you use when you want to aggregate a beautifully nuanced "broth" of these different "fields"... "From delight to wisdom" as Frost said.
