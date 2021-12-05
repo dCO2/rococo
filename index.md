@@ -11,7 +11,7 @@ title: Home
 - I'm Caleb
 - I work as a Software Engineer. And sometimes a faux essayist too.
 - I’m interested in _Distributed Data_ & _Optimization_ Systems.
-- I write essays around tech, economics, finance, and "the human condition."
+- I write essays around business, software engineering, economics, finance, and "the human condition."
 
 ### _Welcome!_
 **ts;dr:**
