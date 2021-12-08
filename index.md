@@ -6,7 +6,7 @@ title: Home
 
 {: style="margin-top:0; margin-bottom: 0;"}
 
-<h1 style="background-color: #00ffef50;"><em>Hello—</em></h1>
+<h1 style="background-color: #00ffef50;display: inline;"><em>Hello—</em></h1>
 
 # _Hello—_ 
 - I'm Caleb. I work as a Software Engineer. And sometimes a faux essayist too.  
