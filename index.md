@@ -11,7 +11,7 @@ title: Home
 
 - I work on \\(modN\\) systems (_read: "modern systems;"_ techie mnemonic for _Memory_, _Optimization_, _Data_, and _Networks_. Haha.)  
 
-- I write essays around business, software engineering, economics, and the philosophy of memory."
+- I write essays around business, software engineering, economics, and the philosophy of memory.
 
 - I'm interested in building systems that can expand human memory and optimize learning.
 
