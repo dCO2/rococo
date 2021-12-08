@@ -7,7 +7,10 @@ title: Home
 {: style="margin-top:0; margin-bottom: 0;"}
 
 # _Hello—_ 
-I'm Caleb. I work as a Software Engineer. And sometimes a faux essayist too. I work on $modN$ systems (_read: "modern systems;"_ techie mnemonic for the paracosm of things I'm interested in: Memory, Optimization, Data, and Network Systems.)  
+I'm Caleb. I work as a Software Engineer. And sometimes a faux essayist too.  
+
+I work on \\(modN$\\) systems (_read: "modern systems;"_ techie mnemonic for the paracosm of things I'm interested in: Memory, Optimization, Data, and Network Systems.)  
+
 I write essays around business, software engineering, economics, finance, and "the human condition."
 
 ### _Welcome!_
