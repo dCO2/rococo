@@ -2,7 +2,7 @@
 layout: booknote
 title: "Algorithms to Live By"
 feature-image: https://images-na.ssl-images-amazon.com/images/I/415UY+ToE-L._SX329_BO1,204,203,200_.jpg
-feature: 1
+feature:
 permalink: /:year/:month/:day/:title
 tags: computer-sci decision-making
 ---
