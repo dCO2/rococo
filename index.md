@@ -11,11 +11,11 @@ title: Home
 - I'm Caleb. I work as a Software Engineer. And sometimes a faux essayist too.
 - I work on _Memory_, _Optimization_, _Data_, and _Networked_ systems (\\(modN\\) systems! Haha. _read: "modern systems"_)
 - I write essays around business, software engineering, economics, and the philosophy of memory.
-- I'm interested in building tools that optimize learning and [expand what people can think and do](https://andymatuschak.org/).
+- I'm interested in building tools that optimize learning and [expand what people can think and do](https://numinous.productions/ttft/).
 
 <h3 style="background-color: #00ffef40;display: inline;"><em>Welcome!</em></h3>
 
-You can find a selection of my projects [here](/projects/); I keep track of notes for a few of the books and articles I read [here](/booknotes/); sometimes I try to flesh-out my thinking into essays, you can find them [here](/essays/); in the spirit of "working with the garage door open," [here](/notes/) is my most-times scrappy public notebook... And [my resume](/resume.pdf/)! 
+You can find a selection of my projects [here](/projects/); I keep track of notes for a few of the books and articles I read [here](/booknotes/); sometimes I try to flesh-out my thinking into essays, you can find them [here](/essays/); in the spirit of "[working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)," [here](/notes/) is my most-times scrappy public notebook... And [my resume](/resume.pdf/)! 
 
 
 📩: dco2 _dot_ caleb _at_ gmail _dot_ com  
