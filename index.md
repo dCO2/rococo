@@ -15,7 +15,7 @@ title: Home
 
 <h3 style="background-color: #00ffef40;display: inline;"><em>Welcome!</em></h3>
 
-You can find a selection of my Projects [here](/projects/). I keep track of notes for a few of the books and articles I read [here](/booknotes/). Sometimes I try to flesh-out my thinking into essays; you can find them [here](/essays/). You can find my CV [here](/CV/). And in the spirit of "working with the garage door open," here is my most-times scrappy public [notebook](/notes/). 
+You can find a selection of my Projects [here](/projects/); I keep track of notes for a few of the books and articles I read [here](/booknotes/); Sometimes I try to flesh-out my thinking into essays, you can find them [here](/essays/); [My CV](/CV/)! And in the spirit of "working with the garage door open," [here](/notes/) is my most-times scrappy public notebook. 
 
 
 📩: dco2 _dot_ caleb _at_ gmail _dot_ com  
