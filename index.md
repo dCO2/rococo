@@ -18,5 +18,6 @@ title: Home
 You can find a selection of my projects [here](/projects/); I keep track of notes for a few of the books and articles I read [here](/booknotes/); sometimes I try to flesh-out my thinking into essays, you can find them [here](/essays/); in the spirit of "[working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)," [here](/notes/) is my most-times scrappy public notebook... And [my resume](/resume.pdf/)! 
 
 
-📩: dco2 _dot_ caleb _at_ gmail _dot_ com  
-🐦: @rojaye_shegz  
+
+📩: [Email me](mailto:dco2.caleb@gmail.com).  
+🐦: [Twitter](https://twitter.com/rojaye_shegz).   
