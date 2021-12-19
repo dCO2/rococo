@@ -4,7 +4,7 @@ title: "you can't fit the universe in a verse"
 feature-image: /assets/images/federico-beccari-L8126OwlroY-unsplash.jpg
 feature:
 permalink: /:year/:month/:day/:title
-tags: language speech reality
+tags: 
 ---
 
 I've been trying to understand this idea that reality cannot be described completely with language. And I think understanding a thing is realizing how that thing relates to other things; realizing its connections and the boundaries of its connections.
