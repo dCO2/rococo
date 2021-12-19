@@ -4,7 +4,7 @@ title: "rich writing is a one week experiment"
 feature-image: /assets/images/
 feature:
 permalink: /:year/:month/:day/:title
-tags: essay
+tags: 
 ---
 
 How do you even do this; writing about/presenting your process of reaching an answer to a question, in a way that's interesting? How do you even assemble the jumbled memory of the process into something that is paragraph-by-paragraph readable?
