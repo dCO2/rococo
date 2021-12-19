@@ -4,7 +4,7 @@ title: "writing as presentation"
 feature-image: /assets/images/
 feature:
 permalink: /:year/:month/:day/:title
-tags: essay
+tags: 
 ---
 
 - **Here's a problem**: Memory is fallible. But we need to learn, we need to remember. And our learning should acrete. How do we systemize this?
