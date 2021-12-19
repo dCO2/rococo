@@ -3,7 +3,7 @@ layout: essay
 title: "Depression in the 21st Century: How it feels to be stomped by this Tall Bad Thing."
 feature-image: /assets/images/author-image.png
 permalink: /:year/:month/:day/:title
-tags: psychology
+tags: 
 ---
 
 > _Stomp! Stomp! Stomp! is the buzzing sound of depression in our modern time. What Frankensteined this Monster?_ <br />
