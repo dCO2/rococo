@@ -17,6 +17,7 @@ body {
     font-size: 14px;
     background: linear-gradient(to top right, rgba(176,209,236,1), rgba(176,209,236,0));
     background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
