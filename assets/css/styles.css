@@ -15,7 +15,7 @@ body {
     font-family: 'LMRomanDemi10', sans-serif; */
     text-align: left;
     font-size: 14px;
-    background-image: linear-gradient(to top right, rgb(237,85,59,40), rgb(237,85,59,0));
+    background-image: linear-gradient(to top right, rgba(176,209,236,40), rgba(176,209,236,0));
 
 }
 
