@@ -7,14 +7,3 @@ tags:
 ---
 
 Some statements should be interpreted as half-truths.
-
-\\[ a^2 = b^2 + c^2 \\]
-
-<details>
-    <summary>
-        Click here
-    </summary>
-    <p>
-        Detailed content goes here
-    </p>
-</details>
