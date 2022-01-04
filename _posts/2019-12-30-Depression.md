@@ -34,7 +34,7 @@ On a microscale, depression is associated with a few things: the abnormal transm
 
 In the highlands of _Papua New Guinea_, _The Kaluli_ people lay their stead. An Anthropologist, Edward Shieffelin was curious as to how often the Kaluli people experience the same kind of mental illness that we do. And so, He spent over a decade among them. He interviewed over 2000 members of the Kaluli, and extensively queried them for their experience of Clinical depression. At the end of his study, he found there was just one marginal case of depresssion out of the 2000 Kalulis he interviwed! That is a rate hundred times lower than the recorded usual. Although the Kalulis live really hard lives reflected in their high rates of infant mortality due to parasitic infections and violent deaths, they don't become clinically depressed. Interestingly, the shield that makes them immune to this menacing monster we call depression is all built up in their lifestyle.
 
-<div style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+<div style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);display: inline;">
   <img src="https://media.istockphoto.com/photos/dotted-grid-paper-background-texture-seamless-repeat-pattern-picture-id1320330053?b=1&k=20&m=1320330053&s=170667a&w=0&h=XisfN35UnuxAVP_sjq3ujbFDyWPurSfSTYd-Ll09Ncc=">
 </div>
 
