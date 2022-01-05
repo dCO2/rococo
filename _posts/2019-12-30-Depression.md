@@ -67,3 +67,12 @@ We may not know exactly what fueled the sad suicide story of Professor David Fos
 
 <iframe class="description" src="/_posts/2021-08-22-how-to-take-smart-notes.md/"></iframe>
 
+<div>
+  <iframe
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="/_posts/2021-08-22-how-to-take-smart-notes.md/">
+  </iframe>
+</div>
+
