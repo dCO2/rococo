@@ -19,6 +19,20 @@ body {
 
 }
 
+
+.tiptext {
+    color:#069; 
+    cursor:pointer;
+}
+.description {
+    display:none;
+    position:absolute;
+    border:1px solid #000;
+    width:400px;
+    height:400px;
+}
+
+
 h1, h2, h3, h4 {
     font-family: Arial, Verdana, sans-serif;
     line-height: 1em;
