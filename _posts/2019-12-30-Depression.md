@@ -40,7 +40,7 @@ In the highlands of _Papua New Guinea_, _The Kaluli_ people lay their stead. An 
 
 Specifically, the Kaluli live a lifestyle very similar to that of our ancestors over the entire Pleistocene epoch that lasted for 1.8 million years. They live as hunter-gatherers; In the absence of all the perks of modern life. There has been a radical environment mutation so fast that our genes, body and brains can't keep up– a sort of mismatch between our genes, body, brain and the world that we find ourselves in. We were never designed for the sedentary, indoor, socially isolated, sleep-deprived, fast-food-laden, frenzied pace of modern life.
 
-<a class="tiptext">How to take smart notes
+<a>How to take smart notes
   <iframe class="description" src="./2021-08-22-how-to-take-smart-notes.md"></iframe>
 </a>
 
@@ -64,3 +64,6 @@ The lifestyle the Kaluli lead is not snarled in these disturbing features of mod
 For David Foster Wallace, his depression started out as hallucinations. He thought that a huge wound, a really huge and deep wound, had opened on his face, on his cheek near his nose. As he put it: "_...that the skin had just split open like old fruit, that blood was seeping out, all dark and shiny, that veins and bits of yellow cheek-fat and red-gray muscle were plainly visible, even bright flashes of bone, in there. Whenever I’d look in the mirror, there it would be, that wound, and I could feel the twitch of the exposed muscle and the heat of the blood on my cheek, all the time. But when I’d say to a doctor or to Mom or to other people, “Hey, look at this open wound on my face, I’d better go to the hospital,” they’d say, “Well, hey, there’s no wound on your face, are your eyes OK?"..._"
 
 We may not know exactly what fueled the sad suicide story of Professor David Foster Wallace. It could have been his genes. It could have been the society he found himself in. We are just not sure. What we do know is that our Society and Modernity is to blame for the larger accounts of clinical depression. Our Society Frankensteined this Monster with 6 body parts and strange chemicals: a face and head of The Media; a torso of Individualism; two arms of Meritocracy and Secularism; two Legs of Perfectibilty and Romanticism all pounding and pounding and pounding; stomping and stomping and stomping: A never-ending buzz of pain...
+
+<iframe class="description" src="./2021-08-22-how-to-take-smart-notes.md"></iframe>
+
