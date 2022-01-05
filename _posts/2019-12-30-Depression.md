@@ -40,11 +40,7 @@ In the highlands of _Papua New Guinea_, _The Kaluli_ people lay their stead. An 
 
 Specifically, the Kaluli live a lifestyle very similar to that of our ancestors over the entire Pleistocene epoch that lasted for 1.8 million years. They live as hunter-gatherers; In the absence of all the perks of modern life. There has been a radical environment mutation so fast that our genes, body and brains can't keep up– a sort of mismatch between our genes, body, brain and the world that we find ourselves in. We were never designed for the sedentary, indoor, socially isolated, sleep-deprived, fast-food-laden, frenzied pace of modern life.
 
-<a class="tiptext">
-  How to take smart notes.
-  <iframe class="description" src="./2021-08-22-how-to-take-smart-notes.md">
-  </iframe>
-</a>
+<a class="tiptext">How to take smart notes.<iframe class="description" src="./2021-08-22-how-to-take-smart-notes.md"></iframe></a>
 
 There are 6 particular features of modernity that have this psychologically disturbing effect:
 > Meritocracy; Individualism; Secularism; Romanticism; The Media; Perfectibilty
