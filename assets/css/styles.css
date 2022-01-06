@@ -20,19 +20,17 @@ body {
 }
 
 
-.iframe-link {
+#iframe-link {
     color:#069; 
     cursor:pointer;
 }
 
-.iframe-content {
-    display:block;
-    position:absolute;
+#iframe-content {
+    display:none;
 }
 
-.iframe-link:hover ~ .iframe-content {
+#iframe-link:hover ~ #iframe-content {
     display:block !important;
-    position:absolute;
 }
 
 
