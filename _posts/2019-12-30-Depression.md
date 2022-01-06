@@ -70,7 +70,5 @@ We may not know exactly what fueled the sad suicide story of Professor David Fos
 <iframe
     title="Inline Frame Example"
     class="iframe-content"
-    width="300"
-    height="200"
     src="/2021/10/30/writing-as-presentation">
 </iframe>
