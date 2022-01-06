@@ -65,9 +65,9 @@ For David Foster Wallace, his depression started out as hallucinations. He thoug
 
 We may not know exactly what fueled the sad suicide story of Professor David Foster Wallace. It could have been his genes. It could have been the society he found himself in. We are just not sure. What we do know is that our Society and Modernity is to blame for the larger accounts of clinical depression. Our Society Frankensteined this Monster with 6 body parts and strange chemicals: a face and head of The Media; a torso of Individualism; two arms of Meritocracy and Secularism; two Legs of Perfectibilty and Romanticism all pounding and pounding and pounding; stomping and stomping and stomping: A never-ending buzz of pain...
 
-<iframe class="description" src="/_posts/2021-08-22-how-to-take-smart-notes.md/"></iframe>
 
-<div class="tiptext">
+<a class="tiptext" src="/2021/10/30/writing-as-presentation">Writing as presentation</a>
+<div>
   <iframe
       title="Inline Frame Example"
       class="description"
