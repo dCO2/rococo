@@ -20,17 +20,17 @@ body {
 }
 
 
-.tiptext {
+.iframe-link {
     color:#069; 
     cursor:pointer;
 }
 
-.description {
+.iframe-content {
     display:none;
     position:absolute;
 }
 
-.tiptext:hover .description {
+.iframe-link:hover .iframe-content {
     display:block;
     position:absolute;
 }
