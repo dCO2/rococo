@@ -31,7 +31,7 @@ body {
 }
 
 .iframe-link:hover .iframe-content {
-    display:block;
+    display:block !important;
     position:absolute;
 }
 
