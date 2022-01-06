@@ -26,11 +26,11 @@ body {
 }
 
 #iframe-content {
-    display:none;
+    display:block;
 }
 
 #iframe-link:hover ~ #iframe-content {
-    display:block !important;
+    display:none !important;
 }
 
 
