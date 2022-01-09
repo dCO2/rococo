@@ -19,6 +19,13 @@ body {
 
 }
 
+.inline-nav {
+    display: flex;   
+}
+
+div.inline-nav span {
+    flex: 1;
+}
 
 #iframe-link {
     color:#069; 
