@@ -20,12 +20,13 @@ body {
 }
 
 .inlne-nav {
-    display: none;
+    display: flex;
     width: 100% !important;
 }
 
 .inlne-nav > span {
     flex: 1;
+    display: block !important;
 }
 
 #iframe-link {
