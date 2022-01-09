@@ -21,7 +21,7 @@ body {
 
 .inlne-nav {
     display: flex;
-    width: 100%;
+    width: 100% !important;
 }
 
 .inlne-nav > span {
