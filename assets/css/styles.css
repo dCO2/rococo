@@ -20,7 +20,8 @@ body {
 }
 
 .inlne-nav {
-    display: flex;   
+    display: flex;
+    width: 100%;
 }
 
 .inlne-nav > span {
