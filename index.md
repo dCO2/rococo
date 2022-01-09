@@ -19,35 +19,35 @@ You can find a selection of my projects [here](/projects/). I keep track of book
 
 <div class="inline-nav">
   <div>
-  	<span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
-  		<a href="/projects/" style="text-decoration: none;">PROJECTS
-  		</a>
-		</span>
-	</div>
+    <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
+      <a href="/projects/" style="text-decoration: none;">PROJECTS
+      </a>
+    </span>
+  </div>
   <div>
-  	<span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
-  	<a href="/booknotes/" style="text-decoration: none;">BOOK-NOTES
-  	</a>
-	</span>
-	</div>
+    <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
+    <a href="/booknotes/" style="text-decoration: none;">BOOK-NOTES
+    </a>
+  </span>
+  </div>
   <div>
-  	<span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
-  		<a href="/essays/" style="text-decoration: none;">ESSAYS
-  		</a>
-		</span>
-	</div>
+    <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
+      <a href="/essays/" style="text-decoration: none;">ESSAYS
+      </a>
+    </span>
+  </div>
   <div>
-		<span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
-			<a href="/notes/" style="text-decoration: none;">NOTEBOOK
-			</a>
-		</span>
-	</div>
+    <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
+      <a href="/notes/" style="text-decoration: none;">NOTEBOOK
+      </a>
+    </span>
+  </div>
   <div>
-  	<span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
-			<a href="/resume.pdf/" style="text-decoration: none;">RESUME
-			</a>
-		</span>
-	</div>
+    <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;">
+      <a href="/resume.pdf/" style="text-decoration: none;">RESUME
+      </a>
+    </span>
+  </div>
 </div>
 
 
