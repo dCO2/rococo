@@ -23,7 +23,7 @@ body {
     display: flex;   
 }
 
-.inline-nav-elm {
+.inline-nav div {
     flex: 1;
 }
 
