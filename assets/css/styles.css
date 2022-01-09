@@ -23,7 +23,7 @@ body {
     display: flex;   
 }
 
-.inlne-nav div {
+.inlne-nav span {
     flex: 1;
 }
 
