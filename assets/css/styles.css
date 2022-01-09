@@ -19,11 +19,11 @@ body {
 
 }
 
-.inline-nav {
+.inlne-nav {
     display: flex;   
 }
 
-.inline-nav div {
+.inlne-nav div {
     flex: 1;
 }
 
