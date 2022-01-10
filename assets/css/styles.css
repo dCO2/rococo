@@ -27,6 +27,7 @@ body {
 
 .inlne-nav > span {
     flex: 1;
+    text-align: left;
     display: block !important;
 }
 
