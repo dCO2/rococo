@@ -27,7 +27,7 @@ body {
 
 .inlne-nav > span {
     flex: 1;
-/*     text-align: left; */
+    text-align: right;
 }
 
 #iframe-link {
