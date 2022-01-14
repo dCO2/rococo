@@ -8,8 +8,8 @@ title: Home
 
 <h1 style="background-color: #00ffef40;display: inline;"><em>Hello—</em></h1>
 
-- I'm Caleb. I work as a Software Engineer. And sometimes a faux essayist too.
-- I work on _Memory_, _Optimization_, _Data_, and _Networked_ systems (\\(modN\\) systems! Haha. _Read: "modern systems"_)
+- I'm Caleb. I work as a Software Engineer. And sometimes an essayist too.
+- I work on _Memory_, _Optimization_, _Data_, and _Networked_ systems (\\(modN\\) systems! Haha.)
 - I write essays around business, software engineering, economics, and the philosophy of memory.
 - I'm interested in building tools that optimize learning and [expand what people can think and do](https://numinous.productions/ttft/).
 
