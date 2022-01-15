@@ -25,7 +25,7 @@ You can find a selection of my projects [here](/projects/). I keep track of book
 <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;text-align: right"><a href="/resume.pdf/" style="text-decoration: none;">RESUME</a></span>
 </div> -->
 
-<span style="font-size: 0.9em;text-align: center !important;"><a href="/projects/" style="text-decoration: none;">PROJECTS</a> | <a href="/booknotes/" style="text-decoration: none;">BOOK-NOTES</a> | <a href="/essays/" style="text-decoration: none;">ESSAYS</a> | <a href="/notes/" style="text-decoration: none;">NOTEBOOK</a> | <a href="/resume.pdf/" style="text-decoration: none;">RESUME</a></span>
+<span style="font-size: 0.9em;text-align: right !important;"><a href="/projects/" style="text-decoration: none;">PROJECTS</a> | <a href="/booknotes/" style="text-decoration: none;">BOOK-NOTES</a> | <a href="/essays/" style="text-decoration: none;">ESSAYS</a> | <a href="/notes/" style="text-decoration: none;">NOTEBOOK</a> | <a href="/resume.pdf/" style="text-decoration: none;">RESUME</a></span>
 
 
 
