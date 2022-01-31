@@ -34,15 +34,7 @@ On a microscale, depression is associated with a few things: the abnormal transm
 
 In the highlands of _Papua New Guinea_, _The Kaluli_ people lay their stead. An Anthropologist, Edward Shieffelin was curious as to how often the Kaluli people experience the same kind of mental illness that we do. And so, He spent over a decade among them. He interviewed over 2000 members of the Kaluli, and extensively queried them for their experience of Clinical depression. At the end of his study, he found there was just one marginal case of depresssion out of the 2000 Kalulis he interviwed! That is a rate hundred times lower than the recorded usual. Although the Kalulis live really hard lives reflected in their high rates of infant mortality due to parasitic infections and violent deaths, they don't become clinically depressed. Interestingly, the shield that makes them immune to this menacing monster we call depression is all built up in their lifestyle.
 
-<div style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-  <img src="https://media.istockphoto.com/photos/dotted-grid-paper-background-texture-seamless-repeat-pattern-picture-id1320330053?b=1&k=20&m=1320330053&s=170667a&w=0&h=XisfN35UnuxAVP_sjq3ujbFDyWPurSfSTYd-Ll09Ncc=">
-</div>
-
 Specifically, the Kaluli live a lifestyle very similar to that of our ancestors over the entire Pleistocene epoch that lasted for 1.8 million years. They live as hunter-gatherers; In the absence of all the perks of modern life. There has been a radical environment mutation so fast that our genes, body and brains can't keep up– a sort of mismatch between our genes, body, brain and the world that we find ourselves in. We were never designed for the sedentary, indoor, socially isolated, sleep-deprived, fast-food-laden, frenzied pace of modern life.
-
-<a>How to take smart notes
-  <iframe class="description" src="/essays/"></iframe>
-</a>
 
 There are 6 particular features of modernity that have this psychologically disturbing effect:
 > Meritocracy; Individualism; Secularism; Romanticism; The Media; Perfectibilty
@@ -65,10 +57,3 @@ For David Foster Wallace, his depression started out as hallucinations. He thoug
 
 We may not know exactly what fueled the sad suicide story of Professor David Foster Wallace. It could have been his genes. It could have been the society he found himself in. We are just not sure. What we do know is that our Society and Modernity is to blame for the larger accounts of clinical depression. Our Society Frankensteined this Monster with 6 body parts and strange chemicals: a face and head of The Media; a torso of Individualism; two arms of Meritocracy and Secularism; two Legs of Perfectibilty and Romanticism all pounding and pounding and pounding; stomping and stomping and stomping: A never-ending buzz of pain...
 
-
-<a id="iframe-link" src="/2021/10/30/writing-as-presentation">Writing as presentation</a>
-<iframe
-    title="Inline Frame Example"
-    id="iframe-content"
-    src="/2021/10/30/writing-as-presentation">
-</iframe>
