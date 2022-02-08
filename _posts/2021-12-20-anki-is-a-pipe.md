@@ -21,7 +21,7 @@ tags:
 	- ![[Pasted image 20211220110901.png]]
 - Date specific focus:
 	- ![[Pasted image 20211220110933.png]]
-- I wanted the decks to be a reminder of the things i needed to learn, the things i was learning. But (now that) (if) I remember the few things im interested in (without anki's reminder) I dont need anki to serve that function. I dont need a deck for "Words" because i'd know (it will be a habit) to be on the look out for interesting words and add it to my date-specific superdeck.
+- I wanted the decks to be a reminder of the things i needed to learn, the things i was learning. But (now that) (if) I remember the few things im interested in (without anki's reminder) I dont need anki to serve that function. I don't need a deck for "Words" because i'd know (it will be a habit) to be on the look out for interesting words and add it to my date-specific superdeck.
 - In a sense, because [[habits are autonomous processes you don't think about as if they are easily retrievable from your immediate cloudspace]], if you've not formed an habit (or if the habit is beyond your mental capacity), Anki (or tools and technology in general) could handle that habit for you. But if the habit is within your mental capacity, the time to take out the technology/tool crutch will eventually come.
 
 
