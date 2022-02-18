@@ -15,7 +15,7 @@ title: Home
 
 <h3 style="background-color: #00ffef40;display: inline;"><em>Welcome!</em></h3>
 
-You can find a selection of my projects [here](/projects/). I keep track of book-notes for a few of the books and articles I read [here](/booknotes/); sometimes I try to flesh-out my thinking into essays, you can find them [here](/essays/). In the spirit of "[working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)," [here](/notes/) is my most-times scrappy, difficult-to-understand public notebook. And my resume! _(This website is in development)_
+You can find a selection of my projects [here](/projects/). I keep track of book-notes for a few of the books and articles I read [here](/booknotes/); sometimes I try to flesh-out my thinking into essays, you can find them [here](/essays/). In the spirit of "[working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)," [here](/notes/) is my most-times scrappy, difficult-to-understand public notebook. And my resume! 
 
 <!-- <div class="inlne-nav">
 <span style="background-color: #a3a3a340;border-radius: 0.5em;display: inline;font-size: 0.9em;text-align: right"><a href="/projects/" style="text-decoration: none;">PROJECTS</a></span>
@@ -27,6 +27,8 @@ You can find a selection of my projects [here](/projects/). I keep track of book
 
 <span style="font-size: 0.9em;text-align: right !important;"><a href="/projects/" style="text-decoration: none;">PROJECTS</a> | <a href="/booknotes/" style="text-decoration: none;">BOOK-NOTES</a> | <a href="/essays/" style="text-decoration: none;">ESSAYS</a> | <a href="/notes/" style="text-decoration: none;">NOTEBOOK</a> | <a href="/resume.pdf/" style="text-decoration: none;">RESUME</a></span>
 
+
+_(This website is in development)_
 
 
 📩: [Email me](mailto:dco2.caleb@gmail.com).  
