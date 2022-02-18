@@ -1,11 +1,4 @@
-# Blog
-
-
-
-## Powered By
-
-
-## Design
+## Design:
 
    * [Minimal Mistakes](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme.html): This is a beautiful theme by Michael Rose, but the code presented too great a learning curve.
    * [So Simple](http://mademistakes.com/articles/so-simple-jekyll-theme.html): Another beautiful theme by Michael Rose, with the same problem as above.
