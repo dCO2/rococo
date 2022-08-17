@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "[#coding] Project Knuth: Learning Algorithm Design"
+title: "Project Knuth: Learning Algorithm Design [#coding]"
 feature-image: /assets/images/author-image.png
 permalink: /:year/:month/:day/:title
 tags: 
