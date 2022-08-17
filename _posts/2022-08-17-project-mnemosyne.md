@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "[#utility] Project Mnemosyne: Augmenting Memory with Anki"
+title: "Project Mnemosyne: Augmenting Memory with Anki [#utility]"
 feature-image: /assets/images/author-image.png
 permalink: /:year/:month/:day/:title
 tags: 
