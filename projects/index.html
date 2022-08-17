@@ -12,7 +12,7 @@ permalink: projects/
 <div class="post">
     <h2>INDEPENDENT</h2>
     {% for post in site.posts %}
-        {% if post.layout == 'essay' %}
+        {% if post.layout == 'project' %}
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         {% endif %}
     {% endfor %}
