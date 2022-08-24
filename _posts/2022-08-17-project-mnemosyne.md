@@ -14,7 +14,7 @@ tags:
 `remarks: `  
 
 <details>
-  <summary><h2>> List of Content</h2></summary>
+  <summary><h2>➤ List of Content</h2></summary>
   <ol>
     <li>Intro</li>
     <li>Brief History of Memory Augmentation</li>
