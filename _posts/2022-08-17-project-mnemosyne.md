@@ -25,7 +25,7 @@ _work in progress..._
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 ## Intro
-I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many things I was trying to learn; something to help revisit all the things I was trying to learn...
+I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many things I was trying to learn; something to help revisit all the many things I was trying to learn...
 
 Brief History of Memory Augmentation
 ------------------------------------
