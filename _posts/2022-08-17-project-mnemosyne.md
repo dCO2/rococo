@@ -17,9 +17,9 @@ tags:
   <summary><h2>> List of Content</h2></summary>
   <ol>
     <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#brief-history-of-memory-augmentation">Brief History of Memory Augmentation</li>
-    <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</li>
-    <li><a href="/2022/08/17/project-mnemosyne#philosophies">Philosophies</li>
+    <li><a href="/2022/08/17/project-mnemosyne#brief-history-of-memory-augmentation">Brief History of Memory Augmentation</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#philosophies">Philosophies</a></li>
   </ol>
 </details>
 
