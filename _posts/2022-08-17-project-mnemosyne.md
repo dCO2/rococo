@@ -15,6 +15,12 @@ success rate:
 lessons:  
 remarks:  
 `
+## content
+1. intro
+2. brief history of memory augmentation
+3. how I use Anki
+4. tips
+
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
 _Silence of the Sea_ by Bang Hai Ja, 2005
