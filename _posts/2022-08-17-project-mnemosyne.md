@@ -7,20 +7,20 @@ tags:
 ---
 
 
-`project begin date:  
-project end date:  
-completion rate:  
-success rate:  
-lessons:  
-remarks:  
-`
-## content
-1. intro
-2. brief history of memory augmentation
-3. how I use Anki
-4. tips
+`project begin date:  `
+`project end date:  `
+`completion rate:  `
+`success rate:  `
+`lessons:  `
+`remarks: `
 
-## intro
+## content
+1. Intro
+2. Brief History of Memory Augmentation
+3. How I use Anki
+4. Philosophies
+
+## Intro
 It was sometime in 2017 that I began to notice I had shitty memory. I cannot remember if I noticed I had a poor memory prior to that time⁠—extending back towards childhood⁠. But I don’t think I bothered much about it when I was younger. I didn't have problems with learning in highschool. In fact, the high-school curriculum didn't require you cramming a lot of information. I found so many things intuitive. The reality textbooks presented to me was ideal, clean, memorable. It was easy to read the textbook and just 'get' it. I knew intuitively why `"V = IR"` or why “`E = 1/2(mv²)"`. I knew what "principle" made airplanes fly. I could explain many physical phenomena because I knew how to apply the atomic theory of matter. Clean. Simple. Reality.
 
 But in my third year of University, 2017/2018, that reality was destroyed. The world became complex, expansive, ugly. Nothing was beautiful anymore. You had to memorise a lot of information you didn't understand because nothing was intuitive anymore. Even when you try to understand the (otherwise complex) _equivalent circuit of transformers_ by arriving at it from a scratch you simply understood—_Maxwell's equations_—you find that the steps involved are long and you cannot remember them all. You try to feel what it was you felt when you understood things simply and deeply as a child. But you cannot. Even that nostalgic depth was a lie. So that’s that. The few chances I had to deeply grok the nature of things, I realised it would take too much effort. And things just get worse from there: Poor effort. Poor habits. Poor grades.
@@ -29,14 +29,14 @@ In the mid of 2020, during the pandemic—away from the busy complex of school�
 
 In this essay, I try to explain/document the various ways I've tried fixing these problems with technology.
 
-brief history of memory augmentation
+Brief History of Memory Augmentation
 ------------------------------------
 
 The history of improving memory with technology goes back a long way. From Douglas Engelbart \[in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962)\] to Ted Nelson in \[[Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965)\] to Tim Berners-Lee \[in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989)\] to Piotr Wozniak and so on. But I won't discuss all that here. Only the actionable stuff.
 
 _todo: expand_
 
-how I use Anki
+How I use Anki
 --------------
 
 Anki is a software that, based on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) learning technique, helps you schedule learning tasks. Anki is basically a todo-app on steriods. But this is an oversimplification. There are many technologies that could be organically designed to help do this in effective and novel ways.
