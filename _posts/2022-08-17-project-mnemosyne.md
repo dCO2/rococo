@@ -6,14 +6,7 @@ permalink: /:year/:month/:day/:title
 tags: 
 ---
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
-
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 It was sometime in 2017 that I began to notice I had shitty memory. I cannot remember if I noticed I had a poor memory prior to that time⁠—extending back towards childhood⁠. But I don’t think I bothered much about it when I was younger. I didn't have problems with learning in highschool. In fact, the high-school curriculum didn't require you cramming a lot of information. I found so many things intuitive. The reality textbooks presented to me was ideal, clean, memorable. It was easy to read the textbook and just 'get' it. I knew intuitively why `"V = IR"` or why “`E = 1/2(mv²)"`. I knew what "principle" made airplanes fly. I could explain many physical phenomena because I knew how to apply the atomic theory of matter. Clean. Simple. Reality.
@@ -38,25 +31,12 @@ Anki is a software that, based on the [spaced repetition](https://en.wikipedia.o
 
 When you newly install the Anki software, this is what you see:
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eb7a28c3-6310-4dee-a3dd-1d45ba1f62ca_1920x1048.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feb7a28c3-6310-4dee-a3dd-1d45ba1f62ca_1920x1048.jpeg)
 
 The decks (in the image above, there is one deck and it is the ‘default’ deck) are like folders you use to separate groups of notes.
 
 But this is the current look of my Anki decks after 1+ year of many organic changes. It has become stable for now.
-
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/367dd7e5-c82c-402f-8ef7-4b9a2637e8a5_1920x1050.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F367dd7e5-c82c-402f-8ef7-4b9a2637e8a5_1920x1050.jpeg)
 
 I find that, on one level, separating decks into ‘_Buffer_’ and ‘_Limbo_’ helps differentiate the nature of things I'm learning. I named the first '_Buffer_' because the deck represents the group of notes I made for things I'm currently learning. '_Limbo_' on the other hand represents the group of things I plan on—but haven't started—learning. The separation is important because Anki (and other space repetition softwares) are essentially _a stream of urgent todo_s (editorial text: clickable link to an Obsidian note). It is a stream because the various notes are always systematically moved into my attention-space. But Limbo is where nothing happens. The notes there are not yet in my attention space.
 
@@ -66,71 +46,29 @@ I could go on and give step by step instructions on how to create decks (and so 
 
 This is what a note actually looks like in preview:
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/833869a3-baf4-4641-9fbc-44030f8a8a3a_797x675.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F833869a3-baf4-4641-9fbc-44030f8a8a3a_797x675.png)
 
 A note is basically a question/answer pair. It is that simple. But it is important that it should be that simple. This question (or note) is from May 2021. And the answer is on the “back-side” as shown in the following picture.
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e72169a7-253e-4c7f-8254-0d8318d80659_797x671.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe72169a7-253e-4c7f-8254-0d8318d80659_797x671.png)
 
 I have deliberately designed the answer to appear along-side the question (which is blurred) just beneath it. But it is still the “back-side”.
 
 This is another note but it is a bad note because the question is poorly asked.
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f2cae03e-1c70-4d83-ada7-e336b6bf7ae9_799x669.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2cae03e-1c70-4d83-ada7-e336b6bf7ae9_799x669.png)
 
 This is also a bad note because not enough context was given:
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9b28a70a-33ed-44e8-ada1-5709d6655f7e_797x666.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b28a70a-33ed-44e8-ada1-5709d6655f7e_797x666.png)
 
 The following notes are more recent and are properly asked. They could range from many various topics. _Some of the notes (read: question) are shown with their answers underneath._
 
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/70a73ed8-c566-4f24-bc94-07963f27bf8d_798x671.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70a73ed8-c566-4f24-bc94-07963f27bf8d_798x671.png)
-
-[
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/31f74a66-5681-4fc3-834c-05a68a09234a_798x667.png)
 
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F31f74a66-5681-4fc3-834c-05a68a09234a_798x667.png)
-
-[
-
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/177970c7-01ed-4484-8102-4a62ab339770_798x670.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F177970c7-01ed-4484-8102-4a62ab339770_798x670.png)
 
 _(todo: expand)_
 
@@ -157,32 +95,3 @@ Using Anki to remember questions to yourself you might answer in the future
 #### Using Anki to watch youtube videos
 
 ### philosophy-ish talking points
-
-*   Memory and Presence
-    
-*   Memory and Aliveness
-    
-*   Memory and Forgetting (_A Primer for Forgetting_ by Lewis Hyde)
-    
-*   Memory and "Balance"
-    
-*   Memory and Peace
-    
-*   Memory and Habits
-    
-*   Memory and Speaking
-    
-*   The burden of Memory: "Oh I have to remember that and that and that"
-    
-*   Memory as the bottleneck.
-    
-*   Against Focus
-    
-*   Memory Fatigue
-    
-*   Move as fast as your understanding. Don't let memory slow you down.
-    
-
-_We are inadequate. Yet, we try to reach for the universe in all we do. Humanity is awesome._
-
-_I’m writing this as I listen to Omah Lay’s just released [Safe Haven](https://www.youtube.com/watch?v=VviPbxyzy7k). At a point, I stumbled on this video from [Alejandro Jodorowsky](https://www.youtube.com/watch?v=gKaUwIJ9jEw) about awakening our consciousness. And listening to him with the Omah Lay’s song playing through my headset makes me want to run and run and stop, embrace-the-world and cry._
