@@ -14,7 +14,7 @@ tags:
 `lessons:  `  
 `remarks: `  
 
-## content
+## Table of Content
 1. Intro
 2. Brief History of Memory Augmentation
 3. How I use Anki
