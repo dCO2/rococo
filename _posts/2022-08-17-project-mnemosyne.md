@@ -16,7 +16,7 @@ tags:
 <details>
   <summary><h2>> List of Content</h2></summary>
   <ol>
-    <li>Intro</li>
+    <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
     <li>Brief History of Memory Augmentation</li>
     <li>How I use Anki</li>
     <li>Philosophies</li>
