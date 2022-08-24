@@ -6,7 +6,6 @@ permalink: /:year/:month/:day/:title
 tags: 
 ---
 
-
 `project begin date:  `  
 `project end date:  `  
 `completion rate:  `  
@@ -20,17 +19,13 @@ tags:
 3. How I use Anki
 4. Philosophies
 
+_work in progress..._
+
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 ## Intro
-It was sometime in 2017 that I began to notice I had shitty memory. I cannot remember if I noticed I had a poor memory prior to that time⁠—extending back towards childhood⁠. But I don’t think I bothered much about it when I was younger. I didn't have problems with learning in highschool. In fact, the high-school curriculum didn't require you cramming a lot of information. I found so many things intuitive. The reality textbooks presented to me was ideal, clean, memorable. It was easy to read the textbook and just 'get' it. I knew intuitively why `"V = IR"` or why “`E = 1/2(mv²)"`. I knew what "principle" made airplanes fly. I could explain many physical phenomena because I knew how to apply the atomic theory of matter. Clean. Simple. Reality.
-
-But in my third year of University, 2017/2018, that reality was destroyed. The world became complex, expansive, ugly. Nothing was beautiful anymore. You had to memorise a lot of information you didn't understand because nothing was intuitive anymore. Even when you try to understand the (otherwise complex) _equivalent circuit of transformers_ by arriving at it from a scratch you simply understood—_Maxwell's equations_—you find that the steps involved are long and you cannot remember them all. You try to feel what it was you felt when you understood things simply and deeply as a child. But you cannot. Even that nostalgic depth was a lie. So that’s that. The few chances I had to deeply grok the nature of things, I realised it would take too much effort. And things just get worse from there: Poor effort. Poor habits. Poor grades.
-
-In the mid of 2020, during the pandemic—away from the busy complex of school—the reality of my life became more apparent to me. Now I was sure that I indeed had a shitty memory. I was sure I had a problem with committment which led to poor study habits. I tried to learn too much of a thing so I could grok it to the point that I understood the essence of it. And so when I’ve hit that point where I need more memory/brain-power to continue learning, I back off. My many obsessive interests actually made it difficult for me to stick to one thing for long enough. All this was depressing to realize.
-
-In this essay, I try to explain/document the various ways I've tried fixing these problems with technology.
+I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many things I was trying to learn; something to help revisit all the things I was trying to learn...
 
 Brief History of Memory Augmentation
 ------------------------------------
