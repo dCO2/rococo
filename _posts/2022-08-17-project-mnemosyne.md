@@ -13,6 +13,14 @@ tags:
 `lessons:  `  
 `remarks: `  
 
+<details>
+  <summary><h2>List of Content</h2></summary>
+  <p>1. Intro</p>
+  <p>2. Brief History of Memory Augmentation</p>
+  <p>3. How I use Anki</p>
+  <p>4. Philosophies</p>
+</details>
+
 ## List of Content
 1. Intro
 2. Brief History of Memory Augmentation
