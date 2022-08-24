@@ -7,12 +7,12 @@ tags:
 ---
 
 
-`project begin date:  `
-`project end date:  `
-`completion rate:  `
-`success rate:  `
-`lessons:  `
-`remarks: `
+`project begin date:  `  
+`project end date:  `  
+`completion rate:  `  
+`success rate:  `  
+`lessons:  `  
+`remarks: `  
 
 ## content
 1. Intro
