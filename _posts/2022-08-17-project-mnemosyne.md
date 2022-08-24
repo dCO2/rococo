@@ -14,13 +14,13 @@ tags:
 `lessons:  `  
 `remarks: `  
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
-
 ## List of Content
 1. Intro
 2. Brief History of Memory Augmentation
 3. How I use Anki
 4. Philosophies
+
+![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
 
 ## Intro
 It was sometime in 2017 that I began to notice I had shitty memory. I cannot remember if I noticed I had a poor memory prior to that time⁠—extending back towards childhood⁠. But I don’t think I bothered much about it when I was younger. I didn't have problems with learning in highschool. In fact, the high-school curriculum didn't require you cramming a lot of information. I found so many things intuitive. The reality textbooks presented to me was ideal, clean, memorable. It was easy to read the textbook and just 'get' it. I knew intuitively why `"V = IR"` or why “`E = 1/2(mv²)"`. I knew what "principle" made airplanes fly. I could explain many physical phenomena because I knew how to apply the atomic theory of matter. Clean. Simple. Reality.
