@@ -17,9 +17,9 @@ tags:
   <summary><h2>> List of Content</h2></summary>
   <ol>
     <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
-    <li>Brief History of Memory Augmentation</li>
-    <li>How I use Anki</li>
-    <li>Philosophies</li>
+    <li><a href="/2022/08/17/project-mnemosyne#brief-history-of-memory-augmentation">Brief History of Memory Augmentation</li>
+    <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</li>
+    <li><a href="/2022/08/17/project-mnemosyne#philosophies">Philosophies</li>
   </ol>
 </details>
 
@@ -38,7 +38,7 @@ The history of improving memory with technology goes back a long way. From Dougl
 
 _todo: expand_
 
-How I use Anki
+## <a href="/2022/08/17/project-mnemosyne/">How I use Anki</a>
 --------------
 
 Anki is a software that, based on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) learning technique, helps you schedule learning tasks. Anki is basically a todo-app on steriods. But this is an oversimplification. There are many technologies that could be organically designed to help do this in effective and novel ways.
