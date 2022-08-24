@@ -9,10 +9,15 @@ tags:
 
 `
 project begin date:
+
 project end date:
+
 completion rate:
+
 success rate:
+
 lessons:
+
 remarks:
 `
 
