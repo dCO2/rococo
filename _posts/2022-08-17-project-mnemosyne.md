@@ -14,24 +14,14 @@ tags:
 `remarks: `  
 
 <details>
-  <summary><h2>List of Content</h2></summary>
+  <summary><h2>> List of Content</h2></summary>
   <ol>
     <li>Intro</li>
     <li>Brief History of Memory Augmentation</li>
     <li>How I use Anki</li>
     <li>Philosophies</li>
   </ol>
-  <p>1. Intro</p>
-  <p>2. Brief History of Memory Augmentation</p>
-  <p>3. How I use Anki</p>
-  <p>4. Philosophies</p>
 </details>
-
-## List of Content
-1. Intro
-2. Brief History of Memory Augmentation
-3. How I use Anki
-4. Philosophies
 
 _work in progress..._
 
