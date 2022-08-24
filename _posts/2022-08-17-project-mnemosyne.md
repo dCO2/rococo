@@ -8,17 +8,12 @@ tags:
 
 
 `
-project begin date:
-
-project end date:
-
-completion rate:
-
-success rate:
-
-lessons:
-
-remarks:
+project begin date:  
+project end date:  
+completion rate:  
+success rate:  
+lessons:  
+remarks:  
 `
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
