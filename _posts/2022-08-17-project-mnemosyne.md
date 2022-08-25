@@ -6,7 +6,7 @@ permalink: /:year/:month/:day/:title
 tags: 
 ---
 
-`project begin date: _March 07, 2021_`  
+`project begin date: March 07, 2021`  
 `project end date: indefinite`  
 `completion rate: 80%`  
 `success rate: 70%`  
