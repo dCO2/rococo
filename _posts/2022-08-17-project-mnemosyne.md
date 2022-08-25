@@ -27,10 +27,10 @@ _work in progress..._
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
-## Intro
+## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">Intro</a>
 I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many things I was trying to learn; something to help revisit all the many things I was trying to learn...
 
-## Brief History of Memory Augmentation
+## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">Brief History of Memory Augmentation</a>
 
 The history of improving memory with technology goes back a long way. From Douglas Engelbart \[in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962)\] to Ted Nelson in \[[Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965)\] to Tim Berners-Lee \[in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989)\] to Piotr Wozniak and so on. But I won't discuss all that here. Only the actionable stuff.
 
