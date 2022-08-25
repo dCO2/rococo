@@ -10,7 +10,6 @@ tags:
 `project end date: indefinite`  
 `completion rate: 80%`  
 `success rate: 70%`  
-`lessons:  `  
 `remarks: `  
 
 <details>
