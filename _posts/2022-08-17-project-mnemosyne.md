@@ -27,7 +27,7 @@ _work in progress..._
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
-## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">Intro</a>
+## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">1.0 Intro</a>
 I began actively working on ways to improve my memory when I realized I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many concepts I was learning, and something to help revisit them. The precise history of events escape me but reading <a href="https://andymatuschak.org/prompts/">Andy Matuschak's article</a> inspired me to actually begin work on the project I had been postponing.
 
 The idea of human memory augmentation is a very broad and interesting one. Methods for improving memory can be medical as in with the use of [nootropics](https://en.wikipedia.org/wiki/Nootropic). Or creative as in with the use of Mnemonics. Or even technological as in with the use of systems that afford spaced repetition. The methods are various and the history is rich.
@@ -36,7 +36,7 @@ The history of improving memory with technology goes back a long way. From Dougl
 
 ### What is Spaced Repetition?
 
-## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">How I use Anki</a>
+## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2.0 How I use Anki</a>
 
 Anki is a software that, based on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) learning technique, helps you schedule learning tasks. Anki is basically a todo-app on steriods. But this is an oversimplification. There are many technologies that could be organically designed to help do this in effective and novel ways.
 
@@ -83,7 +83,7 @@ The following notes are more recent and are properly asked. They could range fro
 
 _(todo: expand)_
 
-## Principles for writing good prompts and organizing Anki decks
+## 3.0 Principles for writing good prompts and organizing Anki decks
 - [Anki helps you plant a thought](),
 - [Anki as catalyst for habitual thought](), 
 - [Anki as stream of urgent todos](), 
@@ -92,12 +92,12 @@ _(todo: expand)_
 - .
 
 
-## Miscellaneous notes
+## 4.0 Miscellaneous notes
 - [Anki vs. Readwise]()
 - [Anki laziness]()
 - 
 
-## Attempts at using Anki for random stuff:
+## 5.0 Attempts at using Anki for random stuff:
 
 ### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
@@ -109,4 +109,4 @@ Using Anki to remember questions to yourself you might answer in the future
 ### Using Anki to learn drawing, music, music theory.
 ### Using Anki to watch youtube videos
 
-## Philosophies
+## 6.0 Philosophies
