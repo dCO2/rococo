@@ -89,18 +89,21 @@ _(todo: expand)_
 - [Anki as stream of urgent todos](), 
 - [Anki is a bucket, not a pipe](),
 - [Anki as hook for scaling steep learning curves]().
-- .
+- [Anki as journal]()
 
 
 ## 4. Miscellaneous notes
 - [Anki vs. Readwise]()
 - [Anki laziness]()
-- 
+- [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course]()
+- [create notes in anki first before refactoring them into obsidian when doing light/new research]()
+- [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
 
 ## 5. Attempts at using Anki for random stuff:
 
 ### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
+### Using Anki to learn movement and exercises
 ### Using Anki to read books
 ### Using Anki to read articles
 ### Using Anki to learn history
