@@ -32,7 +32,7 @@ I began, actively, working on ways to improve my memory when I realized that I c
 
 The idea of human memory augmentation is a very broad and interesting one with a rich history. Methods for improving memory can be 'medical' as in with the use of nootropics. Or creative as in with the use of Mnemonics. Or even technological as in with the use of systems that afford spaced repetition. The methods are various and the history is rich.
 
-The history of improving memory with technology goes back a long way. From Douglas Engelbart \[in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962)\] to Ted Nelson in \[[Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965)\] to Tim Berners-Lee \[in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989)\] to Piotr Wozniak and so on. If interested in this history, read Michael Nielsen's big and brilliant article, Augmenting Human Intellect.
+The history of improving memory with technology goes back a long way. From Douglas Engelbart in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962) to Ted Nelson in [Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965) to Tim Berners-Lee in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989) to Piotr Wozniak and so on. If interested in this history, read Michael Nielsen's big and brilliant article, Augmenting Human Intellect.
 
 ### What is Spaced Repetition?
 
