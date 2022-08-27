@@ -7,7 +7,7 @@ tags:
 ---
 
 `project begin date: March 07, 2021`  
-`project end date: indefinite`  
+`project end date: Indefinite`  
 `completion rate: 80%`  
 `success rate: 70%`  
 `remarks: `  
