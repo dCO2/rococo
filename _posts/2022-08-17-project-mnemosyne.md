@@ -83,26 +83,30 @@ The following notes are more recent and are properly asked. They could range fro
 
 _(todo: expand)_
 
-A bunch of attempts at using Anki for random stuff:
+## Principles for writing good prompts and organizing Anki decks
+- [Anki helps you plant a thought](),
+- [Anki as catalyst for habitual thought](), 
+- [Anki as stream of urgent todos](), 
+- [Anki is a bucket, not a pipe](),
+- [Anki as hook for scaling steep learning curves]().
+- .
 
-#### Using Anki to gain self-knowledge
 
+## Miscellaneous notes
+- [Anki vs. Readwise]()
+- [Anki laziness]()
+- 
+
+## Attempts at using Anki for random stuff:
+
+### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
+### Using Anki to read books
+### Using Anki to read articles
+### Using Anki to learn history
+### Using Anki to learn novels/stories
+### Using Anki to learn a language
+### Using Anki to learn drawing, music, music theory.
+### Using Anki to watch youtube videos
 
-#### Using Anki to read books
-
-#### Using Anki to read articles
-
-#### Using Anki to learn history
-
-#### Using Anki to learn novels/stories
-
-#### Using Anki to learn a language
-
-#### Using Anki to learn drawing, music, music theory.
-
-#### Using Anki to read the news
-
-#### Using Anki to watch youtube videos
-
-### philosophy-ish talking points
+## Philosophies
