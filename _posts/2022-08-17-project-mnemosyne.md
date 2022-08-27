@@ -28,13 +28,13 @@ _work in progress..._
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">Intro</a>
-I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many things I was trying to learn; something to help revisit all the many things I was trying to learn...
+I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many concepts I was trying to learn, and something to help revisit them. The precise history of events escape me but reading Andy matuschack's article inspired me to actually begin work on a project I had been postponing.
 
-## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">Brief History of Memory Augmentation</a>
+The idea of human memory augmentation is a very broad and interesting one with a rich history. Methods for improving memory can be 'medical' as in with the use of nootropics. Or creative as in with the use of Mnemonics. Or even technological as in with the use of systems that afford spaced repetition. The methods are various and the history is rich.
 
-The history of improving memory with technology goes back a long way. From Douglas Engelbart \[in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962)\] to Ted Nelson in \[[Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965)\] to Tim Berners-Lee \[in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989)\] to Piotr Wozniak and so on. But I won't discuss all that here. Only the actionable stuff.
+The history of improving memory with technology goes back a long way. From Douglas Engelbart \[in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962)\] to Ted Nelson in \[[Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965)\] to Tim Berners-Lee \[in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989)\] to Piotr Wozniak and so on. If interested in this history, read Michael Nielsen's big and brilliant article, Augmenting Human Intellect.
 
-_todo: expand_
+### What is Spaced Repetition?
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">How I use Anki</a>
 
