@@ -28,7 +28,7 @@ _work in progress..._
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">Intro</a>
-I began working more actively on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many concepts I was trying to learn, and something to help revisit them. The precise history of events escape me but reading Andy matuschack's article inspired me to actually begin work on a project I had been postponing.
+I began, actively, working on ways to improve my memory when I realized that I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many concepts I was trying to learn, and something to help revisit them. The precise history of events escape me but reading Andy matuschack's article inspired me to actually begin work on a project I had been postponing.
 
 The idea of human memory augmentation is a very broad and interesting one with a rich history. Methods for improving memory can be 'medical' as in with the use of nootropics. Or creative as in with the use of Mnemonics. Or even technological as in with the use of systems that afford spaced repetition. The methods are various and the history is rich.
 
