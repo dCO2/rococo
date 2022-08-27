@@ -6,4 +6,8 @@ permalink: /:year/:month/:day/:title
 tags: 
 ---
 
-This here is an Intro
+`project begin date: Jan 04, 2022`  
+`project end date: Indefinite`  
+`completion rate: 50%`  
+`success rate: 40%`  
+`remarks: difficult`
