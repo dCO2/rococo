@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "anki is not a bucket, anki is a pipe"
+title: "How should Anki decks be organized?"
 feature-image: /assets/images/author-image.png
 permalink: /:year/:month/:day/:title
 tags:
@@ -28,5 +28,8 @@ tags:
 			<li>I'm now able to easily go to a certain month to revise the specific things I was learning for that month.</li>
 			<li>Anki becomes like a journal. See <a href="">Anki as journal</a></li>
 		</ul>
-	<li>This approach made me realize that anything that must be put in anki MUST be in a state of flux, must be remembered, must be small, precise. See <a href="">Anki is not a bucket, Anki is a pipe</a></li>
+	<li>This approach made me realize that anything that must be put in anki MUST be in a state of flux, must be remembered, must be small, precise. See <a href="/2021/12/20/anki-is-a-pipe.md">Anki is not a bucket, Anki is a pipe</a></li>
+	<li>Time-focused decks: <img src="/assets/images/time-focused-decks.png"></li>
+	<li>Topic-focused decks: <img src="/assets/images/topic-focused-decks.png"></li>
+	<li>I used to want the decks to be a reminder of the things I needed to learn, the things I was learning. But (now that) (if) I remember the few things I'm interested in (without anki's reminder), I don't need anki to serve that function. I don't need a deck for "New Words" (when learning new words) because I'd know (or, it will be a habit) to be on the look out for interesting words and add it to my date-specific superdeck.</li>
 </ul>
