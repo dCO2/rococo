@@ -15,9 +15,20 @@ tags:
 <details>
   <summary><h2>> List of Content</h2></summary>
   <ol>
-    <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#brief-history-of-memory-augmentation">Brief History of Memory Augmentation</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a>
+      <ul>
+        <li>What is Spaced Repetition?</li>
+        <li>What is Anki?</li>
+      </ul>
+    </li>
+    <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</a>
+      <ul>
+        <li>Principles for organizing Anki decks</li>
+        <li>Principles for writing good notes/prompts</li>
+      </ul>
+    </li>
+    <li><a href="/2022/08/17/project-mnemosyne#attempts-at-using-anki-for-random-stuff">Attempts at using Anki for random stuff</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#miscellaneous-notes">Miscellaneous notes</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#philosophies">Philosophies</a></li>
   </ol>
 </details>
@@ -91,15 +102,7 @@ _(todo: expand)_
 - [Anki as hook for scaling steep learning curves]().
 - [Anki as journal]()
 
-
-## 4. Miscellaneous notes
-- [Anki vs. Readwise]()
-- [Anki laziness]()
-- [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course]()
-- [create notes in anki first before refactoring them into obsidian when doing light/new research]()
-- [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
-
-## 5. Attempts at using Anki for random stuff:
+## 4. Attempts at using Anki for random stuff
 
 ### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
@@ -111,5 +114,13 @@ Using Anki to remember questions to yourself you might answer in the future
 ### Using Anki to learn a language
 ### Using Anki to learn drawing, music, music theory.
 ### Using Anki to watch youtube videos
+
+
+## 5. Miscellaneous notes
+- [Anki vs. Readwise]()
+- [Anki laziness]()
+- [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course]()
+- [create notes in anki first before refactoring them into obsidian when doing light/new research]()
+- [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
 
 ## 6. Philosophies
