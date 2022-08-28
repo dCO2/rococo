@@ -21,6 +21,6 @@ tags:
 	<li>If this is not the case, the knowledge/information becomes a burden and affects the overall experience of the learner when using the SRS.</li>
 	<li>The SRS then is not a stagnant bookshelf or a bucket of notes (where information sits still) but something that facilitates the flow of information</li>
 	<li>It is like a pipe</li>
-	<li>A bucket is a reference—_i.e._, Textbook, Encyclopedia, Knowledge, "Training", <a href="">Obsidian</a>or Notion. A pipe is a channel—a conduit, a tap, a faucet—that helps control how much conversion—between Knowledge and knowhow—you are doing.</li>
+	<li>A bucket is a reference—i.e., Textbook, Encyclopedia, Knowledge, "Training", <a href="">Obsidian</a> or Notion. A pipe is a channel—a conduit, a tap, a faucet—that helps control how much conversion—between Knowledge and knowhow—you are doing.</li>
 	<li>I used to want the decks to be a reminder of the things I needed to learn, the things I was learning. But (now that) (if) I remember the few things I'm interested in (without anki's reminder), I don't need anki to serve that function. I don't need a deck for "New Words" (when learning new words) because I'd know (or, it will be a habit) to be on the look out for interesting words and add it to my date-specific superdeck.</li>
 </ul>
