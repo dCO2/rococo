@@ -16,12 +16,12 @@ tags:
   <summary><h2>> List of Content</h2></summary>
   <ol>
     <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
-      <ul style="display: inline;">
+      <ul style="margin-top:-30px; margin-bottom:-30px;">
         <li>What is Spaced Repetition?</li>
         <li>What is Anki?</li>
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</a></li>
-      <ul>
+      <ul style="margin-top:-30px; margin-bottom:-30px;">
         <li>Principles for organizing Anki decks</li>
         <li>Principles for writing good notes/prompts</li>
       </ul>
