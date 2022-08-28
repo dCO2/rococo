@@ -16,15 +16,11 @@ tags:
   <summary><h2>> List of Content</h2></summary>
   <ol>
     <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
-      <ul>
-        <li>What is Spaced Repetition?</li>
-        <li>What is Anki?</li>
-      </ul>
+    - What is Spaced Repetition?
+    - What is Anki?
     <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</a></li>
-      <ul>
-        <li>Principles for organizing Anki decks</li>
-        <li>Principles for writing good notes/prompts</li>
-      </ul>
+    - Principles for organizing Anki decks
+    - Principles for writing good notes/prompts
     <li><a href="/2022/08/17/project-mnemosyne#attempts-at-using-anki-for-random-stuff">Attempts at using Anki for random stuff</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#miscellaneous-notes">Miscellaneous notes</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#philosophies">Philosophies</a></li>
