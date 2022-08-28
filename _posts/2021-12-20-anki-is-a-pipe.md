@@ -17,6 +17,6 @@ tags:
 	- I still wanted to make my revision topic/date/xyz-specific.
 - The approach I having been using to solve this is creating month-separated subdecks within that one superdeck I mentioned earlier.
 - This approach helps with focus to an extent
-	- I can esaily go to a certain month or group of months to revise the specific things I was learning on that month or group of months.
+	- I can easily go to a certain month to revise the specific things I was learning for that month.
 	- It becomes like a journal. See [Anki as journal]().
 - This approach has made me realize that anything that must be put in anki MUST be in a state of flux, must be remembered, must be small, precise. See [Anki is not a bucket, Anki is a pipe]().
