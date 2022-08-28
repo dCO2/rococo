@@ -15,19 +15,19 @@ tags:
 <details>
   <summary><h2>> List of Content</h2></summary>
   <ol>
-    <li><a href="/2022/08/17/project-mnemosyne#intro">Intro</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#1-intro">Intro</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
         <li>What is Spaced Repetition?</li>
         <li>What is Anki?</li>
       </ul>
-    <li><a href="/2022/08/17/project-mnemosyne#how-i-use-anki">How I use Anki</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#2-how-i-use-anki">How I use Anki</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
         <li>Principles for organizing Anki decks</li>
         <li>Principles for writing good notes/prompts</li>
       </ul>
-    <li><a href="/2022/08/17/project-mnemosyne#attempts-at-using-anki-for-random-stuff">Attempts at using Anki for random stuff</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#miscellaneous-notes">Miscellaneous notes</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#philosophies">Philosophies</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-random-stuff">Attempts at using Anki for random stuff</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#5-philosophies">Philosophies</a></li>
   </ol>
 </details>
 
@@ -92,7 +92,7 @@ The following notes are more recent and are properly asked. They could range fro
 
 _(todo: expand)_
 
-## 3. Principles for writing good prompts and organizing Anki decks
+### Principles for organizing Anki decks
 - [Anki helps you plant a thought](),
 - [Anki as catalyst for habitual thought](), 
 - [Anki as stream of urgent todos](), 
@@ -100,7 +100,10 @@ _(todo: expand)_
 - [Anki as hook for scaling steep learning curves]().
 - [Anki as journal]()
 
-## 4. Attempts at using Anki for random stuff
+### Principles for writing good prompts
+- [A prompt should be specific]()
+
+## 3. Attempts at using Anki for random stuff
 
 ### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
@@ -114,11 +117,11 @@ Using Anki to remember questions to yourself you might answer in the future
 ### Using Anki to watch youtube videos
 
 
-## 5. Miscellaneous notes
+## 4. Miscellaneous notes
 - [Anki vs. Readwise]()
 - [Anki laziness]()
 - [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course]()
 - [create notes in anki first before refactoring them into obsidian when doing light/new research]()
 - [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
 
-## 6. Philosophies
+## 5. Philosophies
