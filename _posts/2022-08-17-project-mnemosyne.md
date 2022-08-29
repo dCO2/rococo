@@ -46,18 +46,18 @@ The history of improving memory with technology goes back a long way. From Dougl
 ### What is Spaced Repetition?
 Modern personal memory systems exploit the fact that if a piece of information is assimilated and then periodically retrieved/recalled at expanding intervals, then that information is likely to be assimilated for a long-term spanning years. This 'process' of 'recalling at ever expanding intervals' is termed spaced repetition. See Spaced Repetition for Efficient Learning by Gwern for an indepth and almost academic look into the concept of spaced repetition--The essayish article is also <i>briglliant</i> like Michael Nielsen's.
 
-This particular 'essay', on the other hand, is an index into the various thoughts I had while involved with the project of exploiting this fact.
+This particular 'essay', on the other hand, is an index into the various thoughts I had while involved with the project of exploiting this fact. The essay should not be read as a thorough guide but a personal and impressionistic take (and experiment) on SRS systems.
 
-There are now many technologies (apps and softwares and routines) that seriously expand on the idea of spaced repetition. One of them is Anki. It is an app. There is a mobile version and a desktop version. Another is Orbit currently in development by Andy Matuschak. This will really bring about big and important changes to the SRS space. Yet another is Space, etc.
+There are now many technologies (apps and softwares and routines) that seriously expand on the idea of spaced repetition. One of them is Anki. It is an app. There is a mobile version and a desktop version. Another is Orbit currently in development by Andy Matuschak. This will really bring about big and important changes to the SRS space. Yet another is Space, Mnemosyne, SuperMemo. etc.
 
 For various reasons that will be explained in this essay, I chose to work with Anki--The mobile and desktop client.
 
+### What is Anki?
+[Anki is basically a todo-app on steroids](). This, though, is an oversimplification. I hope the engineers of the program don't come for my head. It is a program that helps schedule 'tasks' which are displayed as flashcards to the user. A task in this sense is the actual act of repeatedly recalling something. If, for example, you need to remember the name of an obscure animal you just discovered, you can create a 'task' that has a picture of the animal and regularly (daily or weekly or specified by some deterministic formula) asks you what its name is. Your job then is to provide the name by trying to recall it. A task is not limited to recall though. It could be a physical action you must perform such as an exercise. (We want to think about the concept of SRS systems unrestrictedly)
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2. How I use Anki</a>
 
-Anki is a software that, based on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) learning technique, helps you schedule learning tasks. Anki is basically a todo-app on steriods. But this is an oversimplification. There are many technologies that could be organically designed to help do this in effective and novel ways.
-
-When you newly install the Anki software, this is what you see:
+When you newly install the Anki desktop client, this is what you see:
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eb7a28c3-6310-4dee-a3dd-1d45ba1f62ca_1920x1048.jpeg)
 
