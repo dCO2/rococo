@@ -41,9 +41,17 @@ I began actively working on ways to improve my memory when I realized I could no
 
 The idea of human memory augmentation is a very broad and interesting one. Methods for improving memory can be medical as with the use of [Nootropics](https://en.wikipedia.org/wiki/Nootropic). Or creative as with the use of Mnemonics. Or even technological as with the use of systems that afford spaced repetition. The methods are various and the history is rich.
 
-The history of improving memory with technology goes back a long way. From Douglas Engelbart in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962) to Ted Nelson in [Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965) to Tim Berners-Lee in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989) to Piotr Wozniak and so on. If interested in this history, read Michael Nielsen's big and brilliant article, <a href="http://augmentingcognition.com/ltm.html">Augmenting Long-term Memory</a>.
+The history of improving memory with technology goes back a long way. From Douglas Engelbart in [Augmenting Human Intellect](http://augmentingcognition.com/assets/Engelbart1962.pdf) (1962) to Ted Nelson in [Complex information processing: a file structure for the complex, the changing and the indeterminate](https://dl.acm.org/citation.cfm?id=806036) (1965) to Tim Berners-Lee in [Information Management: a Proposal](https://w3.org/History/1989/proposal.html) (1989) to Piotr Wozniak and so on. If interested in a brief overview of this history, read Michael Nielsen's big and brilliant essay, <a href="http://augmentingcognition.com/ltm.html">Augmenting Long-term Memory</a>.
 
 ### What is Spaced Repetition?
+Modern personal memory systems exploit the fact that if a piece of information is assimilated and then periodically retrieved/recalled at expanding intervals, then that information is likely to be assimilated for a long-term spanning years. This 'process' of 'recalling at ever expanding intervals' is termed spaced repetition. See Spaced Repetition for Efficient Learning by Gwern for an indepth and almost academic look into the concept of spaced repetition--The essayish article is also <i>briglliant</i> like Michael Nielsen's.
+
+This particular 'essay', on the other hand, is an index into the various thoughts I had while involved with the project of exploiting this fact.
+
+There are now many technologies (apps and softwares and routines) that seriously expand on the idea of spaced repetition. One of them is Anki. It is an app. There is a mobile version and a desktop version. Another is Orbit currently in development by Andy Matuschak. This will really bring about big and important changes to the SRS space. Yet another is Space, etc.
+
+For various reasons that will be explained in this essay, I chose to work with Anki--The mobile and desktop client.
+
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2. How I use Anki</a>
 
