@@ -25,7 +25,7 @@ tags:
         <li>Principles for organizing Anki decks</li>
         <li>Principles for writing good notes/prompts</li>
       </ul>
-    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-random-stuff">Attempts at using Anki for random stuff</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-different-information media">Attempts at using Anki for different information media</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#5-philosophies">Philosophies</a></li>
   </ol>
@@ -102,6 +102,9 @@ _(todo: expand)_
 
 ### Principles for organizing Anki decks
 - [Anki helps you plant a thought](),
+- [Anki helps move from an old thought to a recent thought so that moving from a recent thought to an old one becomes easier](),
+  - In my review session today--29th August 2022, I was shown a particular note for a concept I had been thinking about. I created the note on the 7th of July 2022. This was before I had a conversation around the topic of the note with a friend recently--August 27th 2022. My mind did not think about the note when we had the conversation. I guess the note had been infrequent during my review sessions. But on seeing the note today, and meditating on it, my mind was reminded of the conversation I had had with my friend. This is basically a kind of serendipity, a salience of ideas--Anki fosters serendipitous living.
+  - In this case, the old thought is actually old because it was "ankified".
 - [Anki as catalyst for habitual thought](), 
 - [Anki as stream of urgent todos](), 
 - [Anki is a bucket, not a pipe](),
@@ -111,13 +114,23 @@ _(todo: expand)_
 ### Principles for writing good prompts
 - [A prompt should be specific]()
 
-## 3. Attempts at using Anki for random stuff
+## 3. Attempts at using Anki for different information media
 
 ### Using Anki to remember movies.
+It has always been my wish to watch movies intently. So that I could effortlessly pick up on subtle details--back stories, easter eggs, and whatnot--without having to watch the movie multiple times. I wanted to be able to see a movie and carefully analyse what made the movie great or horrible. I thought watching a lot of movies would help but I'd usually be disappointed in my eventual movie-critiquing skill. These days, I don't wish for that anymore. I now want to just remember the plot of movies--how they made me feel--and use their stories, graphics, and illustrations as means for empathetic communication. This is what fiction can do, especially film fiction. It is the living playhouse of the imagination. But how can this be done with an SRS system?
+
+And by remember a movie, I mean, talk and describe it as if you watched it yesterday. This is actually impossible but we can come close.
+
+A movie is a 2-hour long video. But to a human that watches movies, a movie is characters and place and plot. We want to remember all 3. How do we remember Character, Place, and Plot? The easiest way to do this is to talk about them a lot. Amongst friends, to strangers, on forums, etc. Talk about them, Fan about them, Preach, Embody them. This advice though is not necessarily efficient and is for people with enough time--basically jobless kids.
+
+I'd use how I mastered the plot of the beautiful beautiful Avatar movie as an example.
+
+#### Remembering the setting for the Avatar (2009) movie
+The setting for the Avatar movie is the mystical Pandora Earth.
 
 ### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
-### Using Anki to learn movement and exercises
+### Using Anki to master exercises and movement.
 ### Using Anki to read books
 ### Using Anki to read articles
 ### Using Anki to learn history
