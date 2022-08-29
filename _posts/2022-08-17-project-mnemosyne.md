@@ -113,6 +113,8 @@ _(todo: expand)_
 
 ## 3. Attempts at using Anki for random stuff
 
+### Using Anki to remember movies.
+
 ### Using Anki to gain self-knowledge
 Using Anki to remember questions to yourself you might answer in the future
 ### Using Anki to learn movement and exercises
@@ -121,11 +123,15 @@ Using Anki to remember questions to yourself you might answer in the future
 ### Using Anki to learn history
 ### Using Anki to learn novels/stories
 ### Using Anki to learn a language
-### Using Anki to learn drawing, music, music theory.
+### Using Anki to learn drawing.
+### Using Anki to learn music
 ### Using Anki to watch youtube videos
 
 
 ## 4. Miscellaneous notes
+- [promised benefits of SRS systems]()
+  - [useful for programmers and knowledge workers]()
+  - [knowledge can accrete and you can learn more and become more productive]() Richard Hamming: "What Bode was saying was this: “Knowledge and productivity are like compound interest⁠.” Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime. I took Bode’s remark to heart; I spent a good deal more of my time for some years trying to work a bit harder and I found, in fact, I could get more work done."
 - [Anki vs. Readwise]()
 - [Anki laziness]()
 - [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course]()
