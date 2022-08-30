@@ -59,7 +59,7 @@ For various reasons that will be explained in this essay, I chose to work with A
 
 When you newly install the Anki desktop client, this is what you see:
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eb7a28c3-6310-4dee-a3dd-1d45ba1f62ca_1920x1048.jpeg)
+![](/assets/images/anki-new-desktop.jpg)
 
 The decks are like folders you use to separate groups of notes. In the image above, there is one deck and it is the ‘default’ deck.
 
