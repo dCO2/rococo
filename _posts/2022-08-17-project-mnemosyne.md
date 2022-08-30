@@ -73,8 +73,9 @@ And an answer. Like so:
 
 The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient]().
 
-But this is the current look of my Anki decks after 1+ year of many organic changes. It has become stable for now.
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/367dd7e5-c82c-402f-8ef7-4b9a2637e8a5_1920x1050.jpeg)
+After 1+ year of many organic changes, this is the current look of my Anki decks. It is unlike the deck in a newly installed Anki app. It has become stable for now:
+
+![](/assets/images/anki-current.jpg)
 
 I find that, on one level, separating decks into ‘_Buffer_’ and ‘_Limbo_’ helps differentiate the nature of things I'm learning. I named the first '_Buffer_' because the deck represents the group of notes I made for things I'm currently learning. '_Limbo_' on the other hand represents the group of things I plan on—but haven't started—learning. The separation is important because Anki (and other space repetition softwares) are essentially _a stream of urgent todo_s (editorial text: clickable link to an Obsidian note). It is a stream because the various notes are always systematically moved into my attention-space. But Limbo is where nothing happens. The notes there are not yet in my attention space.
 
