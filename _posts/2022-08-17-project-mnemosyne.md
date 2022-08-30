@@ -30,16 +30,15 @@ tags:
         <li>Using Anki to read the bitcoin paper.</li>
         <li>Using Anki to learn a course.</li>
         <li>Using Anki to remember movies.</li>
-        <li>Using Anki to gain self-knowledge.</li>
-        <li>Using Anki to remember questions to yourself you might answer in the future</li>
+        <li>Using Anki to learn novels/stories</li>
+        <li>Using Anki to read articles</li>
+        <li>Using Anki to learn music</li>
         <li>Using Anki to master exercises and movement.</li>
         <li>Using Anki to read books</li>
-        <li>Using Anki to read articles</li>
+        <li>Using Anki to gain self-knowledge.</li>
         <li>Using Anki to learn history</li>
-        <li>Using Anki to learn novels/stories</li>
         <li>Using Anki to learn a language</li>
         <li>Using Anki to learn drawing.</li>
-        <li>Using Anki to learn music</li>
         <li>Using Anki to watch youtube videos</li>
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
