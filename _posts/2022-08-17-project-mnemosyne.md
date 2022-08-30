@@ -25,7 +25,7 @@ tags:
         <li>Principles for organizing Anki decks</li>
         <li>Principles for writing good notes/prompts</li>
       </ul>
-    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-different-information media">Attempts at using Anki for different information media</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-various-information-media">Attempts at using Anki for different information media</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#5-philosophies">Philosophies</a></li>
   </ol>
@@ -106,27 +106,41 @@ This is what a note actually looks like in preview:
 <!-- ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/177970c7-01ed-4484-8102-4a62ab339770_798x670.png) -->
 
 
-### Principles for organizing Anki decks
+### Principles for thinking about Anki and other SRS systems
+- [Anki use is a skill]().
 - [Anki helps you plant a thought](),
-- [Anki helps move from an old thought to a recent thought so that moving from a recent thought to an old one becomes easier](),
-  - In my review session today—29th August 2022, I was shown a particular note for a concept I had been thinking about. I created the note on the 7th of July 2022. This was before I had a conversation around the topic of the note with a friend recently—August 27th 2022. My mind did not think about the note when we had the conversation. I guess the note had been infrequent during my review sessions. But on seeing the note today, and meditating on it, my mind was reminded of the conversation I had had with my friend. This is basically a kind of serendipity, a salience of ideas--Anki fosters serendipitous living.
-  - In this case, the old thought is actually old because it was "ankified".
 - [Anki as catalyst for habitual thought](), 
 - [Anki as stream of urgent todos](), 
 - [Anki is a bucket, not a pipe](),
 - [Anki as hook for scaling steep learning curves]().
-- [Anki as journal]()
+- [Anki as journal]().
+- [Anki as a liquid library]().
+- [Review sessions with Anki should be creative sessions]().
+- [Anki helps move from an old thought to a recent thought so that moving from a recent thought to an old one becomes easier]()
+  - In my review session today—29th August 2022, I was shown a particular note for a concept I had been thinking about. I created the note on the 7th of July 2022. This was before I had a conversation around the topic of the note with a friend recently—August 27th 2022. My mind did not think about the note when we had the conversation. I guess the note had been infrequent during my review sessions. But on seeing the note today, and meditating on it, my mind was reminded of the conversation I had had with my friend. This is basically a kind of serendipity, a salience of ideas--Anki fosters serendipitous living.
+  - In this case, the old thought is actually old because it was "ankified".
 
-### Principles for writing good prompts
-- [A prompt should be specific]()
+### Principles for writing good Anki notes
+- [a note should be focused or atomic]()
+- [a note should not be vague]()
+- [a note should be tractable]()
+- [a note should be effortful]()
+- [make many fleeting notes]()
+- [tag your notes by topic]()
+- [a note should contain images where possible]()
+- [create notes when you must]() (Do not learn if you do not [want to] understand)
+- [refactor or delete notes that are big or stale]()
 
-## 3. Attempts at using Anki for different information media
 
-### [Using Anki to remember movies.]()
-See [Using Anki to remember movies.](/2021/03/07/anki-remember-movies).
-### [Using Anki to gain self-knowledge]()
+## 3. Attempts at using Anki for various information media
+
+### [Using Anki to read the bitcoin paper]().
+### [Using Anki to learn a course]().
+### [Using Anki to remember movies]().
+See [Using Anki to remember movies](/2021/03/07/anki-remember-movies).
+### [Using Anki to gain self-knowledge]().
 Using Anki to remember questions to yourself you might answer in the future
-### [Using Anki to master exercises and movement.]()
+### [Using Anki to master exercises and movement]().
 ### [Using Anki to read books]()
 ### [Using Anki to read articles]()
 ### [Using Anki to learn history]()
