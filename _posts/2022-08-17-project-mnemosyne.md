@@ -10,7 +10,7 @@ tags:
 `project end date: Indefinite`  
 `completion rate: 80%`  
 `success rate: 70%`  
-`remarks: `  
+`remarks: work in progress`  
 
 <details>
   <summary><h2>> List of Content</h2></summary>
@@ -26,12 +26,26 @@ tags:
         <li>Principles for writing good Anki notes</li>
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-various-information-media">Attempts at using Anki for different various media</a></li>
+      <ul style="margin-top:0; margin-bottom:0;">
+        <li>Using Anki to read the bitcoin paper.</li>
+        <li>Using Anki to learn a course.</li>
+        <li>Using Anki to remember movies.</li>
+        <li>Using Anki to gain self-knowledge.</li>
+        <li>Using Anki to remember questions to yourself you might answer in the future</li>
+        <li>Using Anki to master exercises and movement.</li>
+        <li>Using Anki to read books</li>
+        <li>Using Anki to read articles</li>
+        <li>Using Anki to learn history</li>
+        <li>Using Anki to learn novels/stories</li>
+        <li>Using Anki to learn a language</li>
+        <li>Using Anki to learn drawing.</li>
+        <li>Using Anki to learn music</li>
+        <li>Using Anki to watch youtube videos</li>
+      </ul>
     <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#5-philosophies">Philosophies</a></li>
   </ol>
 </details>
-
-_work in progress..._
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23f25a7d-6375-4d45-bdaf-9a325b3cf5e8_3000x1625.jpeg)
 _Silence of the Sea_ by Bang Hai Ja, 2005
