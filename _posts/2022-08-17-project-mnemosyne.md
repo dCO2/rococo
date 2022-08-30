@@ -37,7 +37,7 @@ _work in progress..._
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">1. Intro</a>
-I began actively working on ways to improve my memory when I realized I could not learn anything properly and longterm without a kind of external structure--somewhere to "put" the many concepts I was learning, and something to help revisit them. The precise history of events escape me but reading <a href="https://andymatuschak.org/prompts/">Andy Matuschak's article</a> inspired me to actually begin work on the project I had been postponing.
+I began actively working on ways to improve my memory when I realized I could not learn anything properly and longterm without a kind of external structure—somewhere to "put" the many concepts I was learning, and something to help revisit them. The precise history of events escape me but reading <a href="https://andymatuschak.org/prompts/">Andy Matuschak's article</a> inspired me to actually begin work on the project I had been postponing.
 
 The idea of human memory augmentation is a very broad and interesting one. Methods for improving memory can be medical as with the use of [Nootropics](https://en.wikipedia.org/wiki/Nootropic). Or creative as with the use of Mnemonics. Or even technological as with the use of systems that afford spaced repetition. The methods are various and the history is rich.
 
@@ -53,7 +53,7 @@ There are now many technologies (apps and softwares and routines) that seriously
 For various reasons that will be explained in this essay, I chose to work with Anki--The mobile and desktop client.
 
 ### What is Anki?
-[Anki is basically a todo-app on steroids](). This, though, is an oversimplification. (Pray the program engineers don't come for my head.) Anki helps schedule 'tasks' which are displayed as flashcards to the user. A task in this sense is the actual act of repeatedly recalling something. If, for example, you need to remember the name of an obscure animal you just discovered, you can create a 'task' that has a picture of the animal and regularly asks you--daily or weekly or specified by some deterministic formula--what its name is. Your job then is to provide the name by trying to recall it. A task is not limited to recall though. It could be a physical action you must perform such as an exercise. (We want to think about the concept of SRS systems unrestrictedly)
+[Anki is basically a todo-app on steroids](). This, though, is an oversimplification. (Pray the program engineers don't come for my head.) Anki helps schedule 'tasks' which are displayed as flashcards to the user. A task in this sense is the actual act of repeatedly recalling something. If, for example, you need to remember the name of an obscure animal you just discovered, you can create a 'task' that has a picture of the animal and regularly asks you—daily or weekly or specified by some deterministic formula—what its name is. Your job then is to provide the name by trying to recall it. A task is not limited to recall though. It could be a physical action you must perform such as an exercise. (We want to think about the concept of SRS systems unrestrictedly)
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2. How I use Anki</a>
 
@@ -61,7 +61,15 @@ When you newly install the Anki desktop client, this is what you see:
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eb7a28c3-6310-4dee-a3dd-1d45ba1f62ca_1920x1048.jpeg)
 
-The decks (in the image above, there is one deck and it is the ‘default’ deck) are like folders you use to separate groups of notes.
+The decks are like folders you use to separate groups of notes. In the image above, there is one deck and it is the ‘default’ deck.
+
+A note is basically a question and answer pair. You provide both the question and the answer where, during review sessions, the answer is hidden and you are meant to recall it.
+
+You provide a question. Like so:
+![](/assets/images/anki-card-example-image-to-concept.jpg)
+And an answer. Like so:
+![](/assets/images/anki-card-example-image-to-concept-answer.jpg)
+The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the "`Again`", "`Hard`", "`Good`", "`Easy`" options which specify when next you want to see that question-note.
 
 But this is the current look of my Anki decks after 1+ year of many organic changes. It has become stable for now.
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/367dd7e5-c82c-402f-8ef7-4b9a2637e8a5_1920x1050.jpeg)
@@ -103,7 +111,7 @@ _(todo: expand)_
 ### Principles for organizing Anki decks
 - [Anki helps you plant a thought](),
 - [Anki helps move from an old thought to a recent thought so that moving from a recent thought to an old one becomes easier](),
-  - In my review session today--29th August 2022, I was shown a particular note for a concept I had been thinking about. I created the note on the 7th of July 2022. This was before I had a conversation around the topic of the note with a friend recently--August 27th 2022. My mind did not think about the note when we had the conversation. I guess the note had been infrequent during my review sessions. But on seeing the note today, and meditating on it, my mind was reminded of the conversation I had had with my friend. This is basically a kind of serendipity, a salience of ideas--Anki fosters serendipitous living.
+  - In my review session today—29th August 2022, I was shown a particular note for a concept I had been thinking about. I created the note on the 7th of July 2022. This was before I had a conversation around the topic of the note with a friend recently—August 27th 2022. My mind did not think about the note when we had the conversation. I guess the note had been infrequent during my review sessions. But on seeing the note today, and meditating on it, my mind was reminded of the conversation I had had with my friend. This is basically a kind of serendipity, a salience of ideas--Anki fosters serendipitous living.
   - In this case, the old thought is actually old because it was "ankified".
 - [Anki as catalyst for habitual thought](), 
 - [Anki as stream of urgent todos](), 
