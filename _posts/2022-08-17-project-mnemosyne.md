@@ -73,15 +73,17 @@ And an answer. Like so:
 
 The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient]().
 
+I could go on and give step-by-step instructions on how to create a card, how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do instead is give principles on how best to create a question/answer note and how best to organize Anki decks.
+
 After 1+ year of many organic changes, this is the current look of my Anki decks. It is unlike the deck in a newly installed Anki app. It has become stable for now:
 
 ![](/assets/images/anki-current.jpg)
 
-I find that, on one level, separating decks into ‘_Buffer_’ and ‘_Limbo_’ helps differentiate the nature of things I'm learning. I named the first '_Buffer_' because the deck represents the group of notes I made for things I'm currently learning. '_Limbo_' on the other hand represents the group of things I plan on—but haven't started—learning. The separation is important because Anki (and other space repetition softwares) are essentially _a stream of urgent todo_s (editorial text: clickable link to an Obsidian note). It is a stream because the various notes are always systematically moved into my attention-space. But Limbo is where nothing happens. The notes there are not yet in my attention space.
+I find that, on one level, separating decks into _‘Buffer’_ and _‘Limbo’_ helps differentiate the nature of things I'm learning. I named the first _‘Buffer’_ because the deck represents the group of notes I made for things I'm currently learning. _‘Limbo’_ on the other hand represents the group of things I plan on—but haven't started—learning.
+The separation is important because Anki (and other space repetition softwares) are essentially _[a stream of urgent todos]()_. It is a stream because the various notes in the Buffer deck are always systematically moved into my attention-space. But if there are "notes/courses" you plan learning but don't have the time for yet, then they should go into Limbo. Limbo is where nothing happens. The notes there are not in my attention space yet. See [Anki is a pipe](/2021/12/20/anki-is-a-pipe).
 
-The subdecks in the Buffer deck are separated by months because that way, I can decide to focus on just the notes I created when I learnt a specific thing for that month. It is also like a journal. I can reimagine the headspace I was in that month.
+The subdecks in the Buffer deck are separated by months because that way, I can decide to focus on just the notes I created when I learnt a specific thing for that month. It is also like a journal. I can reimagine the headspace I was in that month. See [How should anki decks be organized](/2021/12/20/how-should-anki-decks-be-organized).
 
-I could go on and give step by step instructions on how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do is give you hints on how best to create a question/answer note and how best to organize your Anki deck.
 
 This is what a note actually looks like in preview:
 
