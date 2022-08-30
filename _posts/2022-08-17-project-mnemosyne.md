@@ -71,7 +71,7 @@ You provide a question. Like so:
 And an answer. Like so:
 ![](/assets/images/anki-card-example-image-to-concept-answer.jpg)
 
-The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note.
+The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient]().
 
 But this is the current look of my Anki decks after 1+ year of many organic changes. It has become stable for now.
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/367dd7e5-c82c-402f-8ef7-4b9a2637e8a5_1920x1050.jpeg)
