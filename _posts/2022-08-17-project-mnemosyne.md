@@ -22,10 +22,10 @@ tags:
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#2-how-i-use-anki">How I use Anki</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
-        <li>Principles for organizing Anki decks</li>
-        <li>Principles for writing good notes/prompts</li>
+        <li>Principles for thinking about Anki and other SRS systems</li>
+        <li>Principles for writing good Anki notes</li>
       </ul>
-    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-various-information-media">Attempts at using Anki for different information media</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-various-information-media">Attempts at using Anki for different various media</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
     <li><a href="/2022/08/17/project-mnemosyne#5-philosophies">Philosophies</a></li>
   </ol>
