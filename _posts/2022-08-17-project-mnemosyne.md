@@ -42,7 +42,7 @@ tags:
         <li>Using Anki to watch youtube videos</li>
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#5-philosophies">Philosophies</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#5-philosophying">Philosophying</a></li>
   </ol>
 </details>
 
@@ -155,7 +155,7 @@ Using Anki to remember questions to yourself you might answer in the future
 - [create notes in anki first before refactoring them into obsidian when doing light/new research]()
 - [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
 
-## 5. Philosophies
+## 5. Philosophying
 - Is infinite memory desirable?
 - Is long-term memory desirable? What even are the benefits?
 - Can a case be made for forgetting?
