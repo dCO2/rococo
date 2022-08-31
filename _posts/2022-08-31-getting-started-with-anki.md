@@ -10,3 +10,9 @@ tags:
 - Information like this is mostly contained in the manual of these technologies but sometimes they're still too much and too introductory. See [Anki Manual](https://docs.ankiweb.net/getting-started.html).
 - Here, I give brief (but detailed enough) instructions on the preferences I currently use for my Anki.
 
+#### How to create a deck
+#### How to create a superdeck
+#### What settings/options should you set the Superdeck and Subdecks?
+#### How to create a note?
+#### How can you make your notes pretty?
+#### How should you tag your notes?
