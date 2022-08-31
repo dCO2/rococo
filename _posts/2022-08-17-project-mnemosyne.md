@@ -86,7 +86,7 @@ And an answer. Like so:
 
 The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient]().
 
-I could go on and give step-by-step instructions on how to create a card, how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do instead is give principles on how best to create a question/answer note and how best to organize Anki decks. (If interested in reading only the parts of the Manual that are immediately useful, See [Getting started with Anki - the bare minimum]().)
+I could go on and give step-by-step instructions on how to create a card, how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do instead is give principles on how best to create a question/answer note and how best to organize Anki decks. (If interested in reading only the parts of the Manual that are immediately useful, See [Getting started with Anki - the bare minimum](/2022/08/31/getting-started-with-anki).)
 
 After 1+ year of many organic changes, this is the current look of my Anki decks. It is unlike the deck in a newly installed Anki app. It has become stable for now:
 
@@ -165,7 +165,7 @@ Using Anki to remember questions to yourself you might answer in the future
 
 
 ## 4. Miscellaneous notes
-- [Getting started with Anki - the bare minimum]()
+- [Getting started with Anki - the bare minimum](/2022/08/31/getting-started-with-anki)
 - [promised benefits of SRS systems]()
   - [useful for programmers and knowledge workers]()
   - [knowledge can accrete and you can learn more and become more productive]() Richard Hamming: "What Bode was saying was this: “Knowledge and productivity are like compound interest⁠.” Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime. I took Bode’s remark to heart; I spent a good deal more of my time for some years trying to work a bit harder and I found, in fact, I could get more work done."
