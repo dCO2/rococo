@@ -149,8 +149,8 @@ This is what a note actually looks like in preview:
 
 ### [Using Anki to read the bitcoin paper]().
 ### [Using Anki to learn a course]().
-### [Using Anki to remember movies]().
-See [Using Anki to remember movies](/2021/03/07/anki-remember-movies).
+<h3>Using Anki to remember movies</h3> See [Using Anki to remember movies](/2021/03/07/anki-remember-movies).
+
 ### [Using Anki to gain self-knowledge]().
 Using Anki to remember questions to yourself you might answer in the future
 ### [Using Anki to master exercises and movement]().
