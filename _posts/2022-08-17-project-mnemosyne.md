@@ -176,3 +176,7 @@ Using Anki to remember questions to yourself you might answer in the future
 - [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
 
 ## 5. Philosophies
+- Is infinite memory desirable?
+- Is long-term memory desirable? What even are the benefits?
+- Can a case be made for forgetting?
+- Can a case be made for forgetfulness?
