@@ -86,7 +86,7 @@ And an answer. Like so:
 
 The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient]().
 
-I could go on and give step-by-step instructions on how to create a card, how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do instead is give principles on how best to create a question/answer note and how best to organize Anki decks. See [getting started with Anki - the boring parts]().
+I could go on and give step-by-step instructions on how to create a card, how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do instead is give principles on how best to create a question/answer note and how best to organize Anki decks. (If interested in reading only the parts of the Manual that are immediately useful, See [getting started with Anki - the boring parts]().)
 
 After 1+ year of many organic changes, this is the current look of my Anki decks. It is unlike the deck in a newly installed Anki app. It has become stable for now:
 
