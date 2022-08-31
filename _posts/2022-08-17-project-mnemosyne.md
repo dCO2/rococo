@@ -27,7 +27,7 @@ tags:
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-various-information-media">Attempts at using Anki for various Information media</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
-        <li>Using Anki to read the <b>bitcoin paper</b>.</li>
+        <li>Using Anki to read the <b>Bitcoin paper</b>.</li>
         <li>Using Anki to learn a <b><i>Financial Markets</i></b> course.</li>
         <li>Using Anki to watch the <b><i>Avatar (2009)</i></b> movie.</li>
         <li>Using Anki to learn novels/stories</li>
