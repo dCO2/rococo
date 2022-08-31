@@ -114,7 +114,7 @@ The subdecks in the Buffer deck are separated by months because that way, I can 
 
 ### Principles for writing good Anki notes
 See [A gallery of various personal notes](/2022/08/31/gallery-of-various-personal-notes).
-- [a note should be focused or atomic]()
+- [a note should be atomic]() (focused or atomic)
 - [a note should not be vague]()
 - [a note should be tractable]()
 - [a note should be effortful]()
