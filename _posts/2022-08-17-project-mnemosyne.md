@@ -28,8 +28,8 @@ tags:
     <li><a href="/2022/08/17/project-mnemosyne#3-attempts-at-using-anki-for-various-information-media">Attempts at using Anki for different various media</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
         <li>Using Anki to read the bitcoin paper.</li>
-        <li>Using Anki to learn a course.</li>
-        <li>Using Anki to remember movies.</li>
+        <li>Using Anki to learn a <i>Financial Markets</i> course.</li>
+        <li>Using Anki to watch the <i>Avatar (2009)</i> movie.</li>
         <li>Using Anki to learn novels/stories</li>
         <li>Using Anki to read articles</li>
         <li>Using Anki to learn music</li>
