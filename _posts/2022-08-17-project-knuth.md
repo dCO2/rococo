@@ -10,4 +10,20 @@ tags:
 `project end date: Indefinite`  
 `completion rate: 50%`  
 `success rate: 40%`  
-`remarks: difficult`
+`remarks: difficult; work in progress`
+
+<details>
+  <summary><h2>> List of Content</h2></summary>
+  <ol>
+    <li><a href="">Intro</a></li>
+      <ul style="margin-top:0; margin-bottom:0;">
+        <li></li>
+      </ul>
+    <li><a href="">Philosophying</a></li>
+  </ol>
+</details>
+
+![](/assets/images/three-wise-men.jpg)
+_Three Wise Men_ by Jimoh Buraimoh, 1991
+
+
