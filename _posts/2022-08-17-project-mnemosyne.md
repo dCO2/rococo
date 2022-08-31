@@ -113,7 +113,7 @@ The subdecks in the Buffer deck are separated by months because that way, I can 
   - In this case, the old thought is actually old because it was "ankified".
 
 ### Principles for writing good Anki notes
-See [A gallery of various personal notes](/2022/08/31/gallery-of-various-personal-notes.md).
+See [A gallery of various personal notes](/2022/08/31/gallery-of-various-personal-notes).
 - [a note should be focused or atomic]()
 - [a note should not be vague]()
 - [a note should be tractable]()
