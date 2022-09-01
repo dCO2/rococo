@@ -27,3 +27,4 @@ tags:
 _Three Wise Men_ by Jimoh Buraimoh, 1991
 
 
+See [Using Anki to think about algorithm design problems]().
