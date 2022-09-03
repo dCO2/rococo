@@ -11,3 +11,6 @@ tags:
 `completion rate: 90%`  
 `success rate: 95%`  
 `remarks: Satisfied`
+
+![](/assets/images/obsidian-graph.jpg)
+
