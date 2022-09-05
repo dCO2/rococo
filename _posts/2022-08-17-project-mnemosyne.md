@@ -66,7 +66,7 @@ There are now many technologies (apps and softwares and routines) that seriously
 For various reasons that will be explained in this essay, I chose to work with Anki--The mobile and desktop client.
 
 ### What is Anki?
-[Anki is basically a todo-app on steroids](). This, though, is an oversimplification. (Pray the program engineers don't come for my head.) Anki helps schedule 'tasks' which are displayed as flashcards to the user. A task in this sense is the actual act of repeatedly recalling something. If, for example, you need to remember the name of an obscure animal you just discovered, you can create a 'task' that has a picture of the animal and regularly asks you—daily or weekly or specified by some deterministic formula—what its name is. Your job then is to provide the name by trying to recall it. A task is not limited to recall though. It could be a physical action you must perform such as an exercise. (We want to think about the concept of SRS systems unrestrictedly)
+[Anki is basically a todo-app on steroids](/_posts/2022-07-15-anki-as-todo-app-on-steroids.md). This, though, is an oversimplification. (Pray the program engineers don't come for my head.) Anki helps schedule 'tasks' which are displayed as flashcards to the user. A task in this sense is the actual act of repeatedly recalling something. If, for example, you need to remember the name of an obscure animal you just discovered, you can create a 'task' that has a picture of the animal and regularly asks you—daily or weekly or specified by some deterministic formula—what its name is. Your job then is to provide the name by trying to recall it. A task is not limited to recall though. It could be a physical action you must perform such as an exercise. (We want to think about the concept of SRS systems unrestrictedly)
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2. How I use Anki</a>
 
@@ -84,7 +84,7 @@ You provide a question. Like so:
 And an answer. Like so:
 ![](/assets/images/anki-card-example-image-to-concept-answer.jpg)
 
-The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient]().
+The above images were grabbed from my review session days ago. Depending on how easy it was to recall an answer, you choose from the `Again`, `Hard`, `Good`, `Easy` options which specify when next you want to see that question-note. See [Using Anki feedback options to make ideas salient](/_posts/2022-09-02-using-anki-feedback-to-make-ideas-salient.md).
 
 I could go on and give step-by-step instructions on how to create a card, how to create decks (and so on) but that's ineffective. There is an online [Anki manual](https://docs.ankiweb.net/) that documents how to use Anki in detail. What I'd do instead is give principles on how best to create a question/answer note and how best to organize Anki decks. (If interested in reading only the parts of the Manual that are immediately useful, See [Getting started with Anki - the bare minimum](/2022/08/31/getting-started-with-anki).)
 
@@ -93,42 +93,42 @@ After 1+ year of many organic changes, this is the current look of my Anki decks
 ![](/assets/images/anki-current.jpg)
 
 I find that, on one level, separating decks into _‘Buffer’_ and _‘Limbo’_ helps differentiate the nature of things I'm learning. I named the first _‘Buffer’_ because the deck represents the group of notes I made for things I'm currently learning. _‘Limbo’_ on the other hand represents the group of things I plan on—but haven't started—learning.
-The separation is important because Anki (and other space repetition softwares) are essentially _[a stream of urgent todos]()_. It is a stream because the various notes in the Buffer deck are always systematically moved into my attention-space. But if there are "notes/courses" you plan learning but don't have the time for yet, then they should go into Limbo. Limbo is where nothing happens. The notes there are not in my attention space yet. See [Anki is a pipe](/2021/12/20/anki-is-a-pipe).
+The separation is important because Anki (and other space repetition softwares) are essentially _[a stream of urgent todos](/_posts/2022-09-02-anki-as-stream-of-urgent-todos.md)_. It is a stream because the various notes in the Buffer deck are always systematically moved into my attention-space. But if there are "notes/courses" you plan learning but don't have the time for yet, then they should go into Limbo. Limbo is where nothing happens. The notes there are not in my attention space yet. See [Anki is a pipe](/2021/12/20/anki-is-a-pipe).
 
 The subdecks in the Buffer deck are separated by months because that way, I can decide to focus on just the notes I created when I learnt a specific thing for that month. It is also like a journal. I can reimagine the headspace I was in that month. See [How should anki decks be organized](/2021/12/20/how-should-anki-decks-be-organized).
 
 
 ### Principles for thinking about Anki and other SRS systems
-- [Anki use is a skill]().
-- [Anki helps you plant a thought](),
-- [Anki as catalyst for habitual thought](), 
-- [Anki as stream of urgent todos](), 
-- [Anki is a bucket, not a pipe](),
-- [Anki as hook for scaling steep learning curves]().
-- [Anki as journal]().
-- [Anki as a liquid library]().
-- [Review sessions with Anki should be creative sessions]().
-- [Anki helps move from an old thought to a recent thought so that moving from a recent thought to an old one becomes easier]()
+- [Anki use is a skill](/_posts/2022-09-02-anki-use-is-a-skill.md).
+- [Anki helps you plant a thought](/_posts/2022-09-02-anki-helps-plant-a-thought.md),
+- [Anki as catalyst for habitual thought](/_posts/2021-12-27-anki-as-catalyst.md), 
+- [Anki as stream of urgent todos](/_posts/2022-09-02-anki-as-stream-of-urgent-todos.md), 
+- [Anki is a bucket, not a pipe](/_posts/2021-12-20-anki-is-a-pipe.md),
+- [Anki as hook for scaling steep learning curves](/_posts/2021-12-24-anki-as-hook.md).
+- [Anki as journal](/_posts/2022-09-02-anki-as-journal.md).
+- [Anki as a liquid library](/_posts/2022-09-02-anki-as-liquid-library.md).
+- [Review sessions with Anki should be creative sessions](/_posts/2022-09-02-review-sessions-with-anki-are-creative-sessions.md).
+- [Anki helps move from an old thought to a recent thought so that moving from a recent thought to an old one becomes easier](/_posts/2022-09-02-anki-helps-draw-upon-old-thought-for-a-new-thought.md)
   - In my review session today—29th August 2022, I was shown a particular note for a concept I had been thinking about. I created the note on the 7th of July 2022. This was before I had a conversation around the topic of the note with a friend recently—August 27th 2022. My mind did not think about the note when we had the conversation. I guess the note had been infrequent during my review sessions. But on seeing the note today, and meditating on it, my mind was reminded of the conversation I had had with my friend. This is basically a kind of serendipity, a salience of ideas--Anki fosters serendipitous living.
   - In this case, the old thought is actually old because it was "ankified".
 
 ### Principles for writing good Anki notes
 See [A gallery of various personal notes](/2022/08/31/gallery-of-various-personal-notes).
-- [a note should be atomic]() (focused or atomic)
-- [a note should not be vague]()
-- [a note should be tractable]()
-- [a note should be effortful]()
-- [make many fleeting notes]()
-- [tag your notes by topic]()
-- [a note should contain images where possible]()
-- [create notes when you must]() (Do not learn if you do not [want to] understand)
-- [refactor or delete notes that are big or stale]()
+- [a note should be atomic](/_posts/2022-09-02-a-note-should-be-atomic.md) (focused or atomic)
+- [a note should not be vague](/_posts/2022-09-02-a-note-should-not-be-vague.md)
+- [a note should be tractable](/_posts/2022-09-02-a-note-should-be-tractable.md)
+- [a note should be effortful](/_posts/2022-09-02-a-note-should-be-effortful.md)
+- [make many fleeting notes](/_posts/2022-09-02-make-many-fleeting-notes.md)
+- [tag your notes by topic](/_posts/2022-09-02-tag-your-notes-by-topic.md)
+- [a note should contain images where possible](/_posts/2022-09-02-a-note-should-contain-images-where-possible.md)
+- [create notes when you must](/_posts/2022-09-02-create-notes-when-you-must.md) (Do not learn if you do not [want to] understand)
+- [refactor or delete notes that are big or stale](/_posts/2022-09-05-refactor-old-notes.md)
 
 
 ## 3. Attempts at using Anki for various information media
 
-### [Using Anki to read the bitcoin paper]().
-### [Using Anki to learn a course]().
+### [Using Anki to read the bitcoin paper](/_posts/2022-09-02-anki-and-the-bitcoin-paper.md).
+### [Using Anki to learn a course](/_posts/2022-09-02-anki-and-schillers-financial-markets-course.md).
 <h3 style="display:inline;">Using Anki to remember movies</h3> See <a href="/2021/03/07/anki-remember-movies">Using Anki to remember movies</a>
 
 ### [Using Anki to gain self-knowledge]().
@@ -149,11 +149,11 @@ Using Anki to remember questions to yourself you might answer in the future
 - [promised benefits of SRS systems]()
   - [useful for programmers and knowledge workers]()
   - [knowledge can accrete and you can learn more and become more productive]() Richard Hamming: "What Bode was saying was this: “Knowledge and productivity are like compound interest⁠.” Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime. I took Bode’s remark to heart; I spent a good deal more of my time for some years trying to work a bit harder and I found, in fact, I could get more work done."
-- [Anki vs. Readwise]()
-- [Anki laziness]()
-- [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course]()
-- [create notes in anki first before refactoring them into obsidian when doing light/new research]()
-- [create notes in obsidian first before refactoring them into anki when doing heavy/old research]()
+- [Anki vs. Readwise](/_posts/2022-09-02-anki-vs-readwise.md)
+- [Anki laziness](/_posts/2022-09-02-anki-laziness.md)
+- [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course](/_posts/2022-09-02-anki-and-automatically-scheduled-difficulty.md)
+- [create notes in anki first before refactoring them into obsidian when doing light/new research](/_posts/2022-09-02-when-to-refactor-from-anki-to-obsidian.md)
+- [create notes in obsidian first before refactoring them into anki when doing heavy/old research](/_posts/2022-09-02-when-to-refactor-from-obsidian-to-anki.md)
 
 ## 5. Philosophying
 - Is infinite memory desirable?
