@@ -24,5 +24,5 @@ This is also a bad note because not enough context was given:
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/31f74a66-5681-4fc3-834c-05a68a09234a_798x667.png)
 
-![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/177970c7-01ed-4484-8102-4a62ab339770_798x670.png)
+<!-- ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/177970c7-01ed-4484-8102-4a62ab339770_798x670.png) -->
 
