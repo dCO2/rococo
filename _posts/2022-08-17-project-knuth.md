@@ -26,15 +26,7 @@ tags:
 ![](/assets/images/three-wise-men.jpg)
 _Three Wise Men_ by Jimoh Buraimoh, 1991
 
-
-- See [Using Anki to think about algorithm design problems]().
-  - [are you not cramming code?]()---Oh no, I am actually not.
-
-- How did I get into algo coding
-
-- Graphs
-
-- Binary Search, Binary Tree
-
+- Why learn Algorithm design?
 - Write down your thought process when thinking about a solution for problems.
-
+- See [Using Anki to think about algorithm design problems]().
+  - [are you not cramming code?]()---Oh no, actually not.
