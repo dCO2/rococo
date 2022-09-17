@@ -14,4 +14,4 @@ tags:
 
 ![](/assets/images/obsidian-graph.jpg)
 
-Placeholder: See [How to take smart notes](/_posts/2021-08-22-how-to-take-smart-notes.md).
+Placeholder: See [How to take smart notes](/2021/08/22/how-to-take-smart-notes).
