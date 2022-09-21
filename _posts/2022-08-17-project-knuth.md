@@ -28,5 +28,6 @@ _Three Wise Men_ by Jimoh Buraimoh, 1991
 
 - Why learn Algorithm design?
 - Write down your thought process when thinking about a solution for problems.
+  - Leetcode 985, [Sum Of Even Numbers After Queries](/2022/09/21/sum-of-even-number-after-queries).
 - See [Using Anki to think about algorithm design problems]().
   - [are you not cramming code?]()---Oh no, actually not.
