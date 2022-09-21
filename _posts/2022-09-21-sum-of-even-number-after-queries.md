@@ -31,3 +31,7 @@ class Solution:
         return output
 ```
 This works but a more performant has to be cleverly designed. I think due to the repeated sums of even numbers, a "dynamic solution" might be possible?
+
+---
+
+[Tutorial Link from _Coding Decoded_](https://www.youtube.com/watch?v=2bjRM_6hDsI).
