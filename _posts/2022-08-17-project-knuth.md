@@ -31,3 +31,5 @@ _Three Wise Men_ by Jimoh Buraimoh, 1991
   - Leetcode 985, [Sum Of Even Numbers After Queries](/2022/09/21/sum-of-even-number-after-queries).
 - See [Using Anki to think about algorithm design problems]().
   - [are you not cramming code?]()---Oh no, actually not.
+- Algorithms that easily become a part of you
+  - Linked List: "Design an algorithm that, given a pointer to the head of a linked list, returns a pointer to the element at the middle of the list": [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list/)
