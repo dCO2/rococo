@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Using React™ (A collection of projects) [#coding]"
+title: "Using React (A collection of projects) [#coding]"
 feature-image: /assets/images/author-image.png
 permalink: /:year/:month/:day/:title
 tags: 
