@@ -32,8 +32,8 @@ _Three Wise Men_ by Jimoh Buraimoh, 1991
 - See [Using Anki to think about algorithm design problems]().
   - [are you not cramming code?]()---Oh no, actually not.
 - Algorithms that easily become a part of you (because they are simple? or their problem statement is straightforward? or the solution is memorable?)
-  - Linked List: "Design an algorithm that, given a pointer to the head of a linked list, returns a pointer to the element at the middle of the list", [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list/)
-  - Bit-shifting, Adhoc: "Design an algorithm that, given a non-empty array of integers where every integer appears twice except for one integer, returns the value of that one integer", [Leetcode Link](https://leetcode.com/problems/single-number/)
+  - Linked List: "_Design an algorithm that, given a pointer to the head of a linked list, returns a pointer to the element at the middle of the list_", [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list/)
+  - Bit-shifting, Adhoc: "_Design an algorithm that, given a non-empty array of integers where every integer appears twice except for one integer, returns the value of that one integer_", [Leetcode Link](https://leetcode.com/problems/single-number/)
   - Breadth-first search
   - Depth-first search
 - Restate problem statement for algorithms in your own words (i.e., compress them)
