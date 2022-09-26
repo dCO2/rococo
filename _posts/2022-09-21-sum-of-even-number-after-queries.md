@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Sum Of Even Numbers After Queries"
+title: "Leetcode 985, Sum Of Even Numbers After Queries"
 feature-image: /assets/images/author-image.png
 permalink: /:year/:month/:day/:title
 tags:
