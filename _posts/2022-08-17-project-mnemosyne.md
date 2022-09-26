@@ -41,8 +41,9 @@ tags:
         <li>Using Anki to learn drawing.</li>
         <li>Using Anki to watch youtube videos</li>
       </ul>
-    <li><a href="/2022/08/17/project-mnemosyne#4-miscellaneous-notes">Miscellaneous notes</a></li>
-    <li><a href="/2022/08/17/project-mnemosyne#5-philosophying">Philosophying</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#4-conclusions">Conclusions</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#5-miscellaneous-notes">Miscellaneous notes</a></li>
+    <li><a href="/2022/08/17/project-mnemosyne#6-philosophying">Philosophying</a></li>
   </ol>
 </details>
 
@@ -143,8 +144,13 @@ Using Anki to remember questions to yourself you might answer in the future
 ### Using Anki to learn music
 ### Using Anki to watch youtube videos
 
+## 4. Conclusions
+- What was my initial want/hope for my SRS system with Anki?
+- Did I achieve that want?
+  - Well, now I know that there is an important difference between recall and [speed of recall](). I initially hoped that using Anki could help me not just "remember" things but also remember things _fast_. Perhaps a better word is recall. I wanted to be able to _recall_ things fast. So that I could look at, say, the title of a leetcode question and quickly remember what was being asked and the various solutions that can be implemented. And a test of "quickly remembering" is if I can state the problem out loud fluently without having to think too hard--i.e., trying to reimagine what the problem and solution must've been about.
+  - But I find that this 'speed of recall' is probably difficult to improve? It seems like it's an inherent quality of your natural memory? I'm not so sure.
 
-## 4. Miscellaneous notes
+## 5. Miscellaneous notes
 - [Getting started with Anki - the bare minimum](/2022/08/31/getting-started-with-anki)
 - [promised benefits of SRS systems]()
   - [useful for programmers and knowledge workers]()
@@ -155,7 +161,7 @@ Using Anki to remember questions to yourself you might answer in the future
 - [create notes in anki first before refactoring them into obsidian when doing light/new research](/2022/09/02/when-to-refactor-from-anki-to-obsidian)
 - [create notes in obsidian first before refactoring them into anki when doing heavy/old research](/2022/09/02/when-to-refactor-from-obsidian-to-anki)
 
-## 5. Philosophying
+## 6. Philosophying
 - Is infinite memory desirable?
 - Is long-term memory desirable? What even are the benefits?
 - Can a case be made for forgetting?
