@@ -41,10 +41,11 @@ _Three Wise Men_ by Jimoh Buraimoh, 1991
   - A compressed statement then is; _select maximum sum of non-adjacent numbers from given array_.
 - It is also important to understand that algorithms designed with the technical interview process in mind are not in their final form. They could be modified into shorter and easier-to-think-about code by employing the programming language's standard library. Employing this standard algorithms library is a skill.
   - For example... "_Design an algorithm that, given the head of an unsorted linked list of integers, returns the head to the linked list sorted using insertion sort_"
-  - To solve this, if the input is not a linked list but an array, one could go on and implement the insertion sort procedure. But it is usually better to employ standard lbrary algorithm. The algorithm below is an implementation of the insertion sort procedure on an array, making use of the `std::rotate`, `std::upper_bound`, and `std::next` algorithms in c++.  
-  ```c++
-  for(auto i = start; i != end; i++){
-    std::rotate(std::upper_bound(start, i, *i), i, std::next(i));
-  }
-  ```
+  - To solve this, if the input is not a linked list but an array, one could go on and implement the insertion sort procedure. But it is usually better to employ standard lbrary algorithm. The algorithm below is an implementation of the insertion sort procedure on an array, making use of the `std::rotate`, `std::upper_bound`, and `std::next` algorithms in c++.
+
+```cpp
+for(auto i = start; i != end; i++){
+  std::rotate(std::upper_bound(start, i, *i), i, std::next(i));
+}
+```
 - ...
