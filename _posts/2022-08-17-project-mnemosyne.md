@@ -149,7 +149,7 @@ Using Anki to remember questions to yourself you might answer in the future
 - Did I achieve that want?
   - Well, now I know that there is an important difference between recall and [speed of recall](). I initially hoped that using Anki could help me not just "remember" things but also remember things _fast_. Perhaps a better word is recall. I wanted to be able to _recall_ things fast. So that I could look at, say, the title of a leetcode question and quickly remember what was being asked and the various solutions that can be implemented. And a test of "quickly remembering" is if I can state the problem out loud fluently without having to think too hard--i.e., trying to reimagine what the problem and solution must've been about.
   - Yes, there were a few successes, but I find that this 'speed of recall' is probably difficult to improve? It seems like it's an inherent quality of your natural memory? I'm not so sure.
-- It is also sometimes difficult to keep up with the daily work that has to go into review sessions especially when you are busy with other things.
+- It is also sometimes difficult to keep up with the daily work that has to go into review sessions especially when you are busy with other things. This makes you lazy. So, you don't use Anki to fulfill its function. See [Anki Laziness](/2022/09/02/anki-laziness).
 
 ## 5. Miscellaneous notes
 - [Getting started with Anki - the bare minimum](/2022/08/31/getting-started-with-anki)
