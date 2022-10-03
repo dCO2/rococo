@@ -148,6 +148,7 @@ Using Anki to remember questions to yourself you might answer in the future
 - What was my initial want/hope for my SRS system with Anki?
 - Did I achieve that want?
   - One thing I wanted to achieve is to be able to think about a good number of chunked information simultaneously so that I could easily draw-out relationships between the various information.
+    - So that when one thinks about coming up with a solution for an algorithm design problem, you are easily reminded of similar problems and an idea for a solution becomes close at hand.
   - I also wanted the things I was learning to become a part of me, integral to my personality.
   - Well, now I know that there is an important difference between recall and [speed of recall](). I initially hoped that using Anki could help me not just "remember" things but also remember things _fast_. Perhaps a better word is recall. I wanted to be able to _recall_ things fast. So that I could look at, say, the title of a leetcode question and quickly remember what was being asked and the various solutions that can be implemented. And a test of "quickly remembering" is if I can state the problem out loud fluently without having to think too hard--i.e., trying to reimagine what the problem and solution must've been about.
   - Yes, there were a few successes, but I find that this 'speed of recall' is probably difficult to improve? It seems like it's an inherent quality of your natural memory? I'm not so sure.
