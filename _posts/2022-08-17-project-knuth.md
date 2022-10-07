@@ -28,7 +28,9 @@ _Three Wise Men_ by Jimoh Buraimoh, 1991
 
 - Why learn Algorithm design?
   - "It is usually the case that when engineers learn algorithm design, they do so not primarily because it is fascinating to think about technical problems but because getting a 'FANG job' is a big motivation. The prospects of getting a FANG job doesn't excite me anymore. I just, now, want to reach back to that initial spark that made me find something really fascinating about the implementation of computer algorithms. The genesis, most of the time is mathematics. The beauty of it. The promise that by understanding some fact deeply, you can see and appreciate its beauty in some other thing."
-- How do you remember the wandering of thought processes that went into implementing the code for an algorithm? Even after months of implementing the code?
+- What makes Algorithm design troublesome but fun for me?
+  - I tend to treat learning a skill like mastering a landscape? And so I depend on categorised paths from easy to hard or linked-lists to graphs that teach specific lessons on how to think about solving random unlabelled problems. This helps with remembering problem solutions so they can be reapplied. But if that categorised landscape is absent, the problem solutions are easy to forget and a new solution, hard to find.
+- How do you remember the wandering of thought processes that went into implementing the code for an algorithm? Even after months of implementing the code? Especially when you don't have all the time to practice?
   - For example, See [Leetcode 5, Longest Palindromic Substring]() & Leetcode 647, Palindromic Substrings.
 - Write down your thought process when thinking about a solution for problems.
   - Leetcode 985, [Sum Of Even Numbers After Queries](/2022/09/21/sum-of-even-number-after-queries).

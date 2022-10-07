@@ -149,10 +149,18 @@ Using Anki to remember questions to yourself you might answer in the future
 - Did I achieve that want?
   - One thing I wanted to achieve is to be able to think about a good number of chunked information simultaneously so that I could easily draw-out relationships between the various information.
     - So that, for example, when one thinks about coming up with a solution for an algorithm design problem, you are easily reminded of similar problems and an idea for a solution becomes close at hand.
+    - E.g., it will be nice to be able to easily see how solutions to the following problems on binary trees are related. Doing this involves being able to think about the chunked detail of each solution simultaneously:
+    - _Given binary tree determine if there is a path with nodes that sum to a target number._
+    - _Given binary search tree, determine if a target exists in one of the nodes and return that node._
+    - _Given preorder traversal of BST in an array, return a root to the constructed BST_
+    - _Given root of binary tree, return its diameter._
+    - _Given root of binary tree, return a root to the inverted binary tree._
+    - _Given the root of a binary tree, return its maximum depth._
   - I also wanted the things I was learning to become a part of me, integral to my personality.
   - Well, now I know that there is an important difference between recall and [speed of recall](). I initially hoped that using Anki could help me not just "remember" things but also remember things _fast_. Perhaps a better word is recall. I wanted to be able to _recall_ things fast. So that I could look at, say, the title of a leetcode question and quickly remember what was being asked and the various solutions that can be implemented. And a test of "quickly remembering" is if I can state the problem out loud fluently without having to think too hard--i.e., trying to reimagine what the problem and solution must've been about.
   - Yes, there were a few successes, but I find that this 'speed of recall' is probably difficult to improve? It seems like it's an inherent quality of your natural memory? I'm not so sure.
 - It is also sometimes difficult to keep up with the daily work that has to go into review sessions especially when you are busy with other things. This makes you lazy. So, you don't use Anki to fulfill its function. See [Anki Laziness](/2022/09/02/anki-laziness).
+- [what is the opportunity cost of incorporating anki review sessions into your daily life?](/2022/10/07/cost-of-anki-review-sessions) (what have i unconsciously lost by using anki?)
 
 ## 5. Miscellaneous notes
 - [Getting started with Anki - the bare minimum](/2022/08/31/getting-started-with-anki)
@@ -164,6 +172,7 @@ Using Anki to remember questions to yourself you might answer in the future
 - [interacting with anki automatically schedules the hierarchy of difficulty when learning a linear course](/2022/09/02/anki-and-automatically-scheduled-difficulty)
 - [create notes in anki first before refactoring them into obsidian when doing light/new research](/2022/09/02/when-to-refactor-from-anki-to-obsidian)
 - [create notes in obsidian first before refactoring them into anki when doing heavy/old research](/2022/09/02/when-to-refactor-from-obsidian-to-anki)
+- "what will i be doing without anki? like. how will i actively keep track of thoughts??"
 
 ## 6. Philosophying
 - Is infinite memory desirable?
