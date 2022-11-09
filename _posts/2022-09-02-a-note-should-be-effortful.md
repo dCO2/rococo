@@ -6,4 +6,4 @@ permalink: /:year/:month/:day/:title
 tags:
 ---
 
-- Notes that demand brain-work are easily remembered than ones with less
+- Notes that demand brain-work are easily remembered than ones that demand less.
