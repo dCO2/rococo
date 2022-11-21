@@ -104,7 +104,7 @@ The subdecks in the Buffer deck are separated by months because that way, I can 
 - [Anki helps you plant a thought](/2022/09/02/anki-helps-plant-a-thought),
 - [Anki as catalyst for habitual thought](/2021/12/27/anki-as-catalyst), 
 - [Anki as stream of urgent todos](/2022/09/02/anki-as-stream-of-urgent-todos), 
-- [Anki is a bucket, not a pipe](/2021/12/20/anki-is-a-pipe),
+- [Anki is not a bucket, it is a pipe](/2021/12/20/anki-is-a-pipe),
 - [Anki as hook for scaling steep learning curves](/2021/12/24/anki-as-hook).
 - [Anki as journal](/2022/09/02/anki-as-journal).
 - [Anki as a liquid library](/2022/09/02/anki-as-liquid-library).

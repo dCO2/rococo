@@ -8,7 +8,7 @@ tags:
 
 <ul>
 	<li>See <a href="/2021/12/20/how-should-anki-decks-be-organized">How should Anki decks be organized?</a></li>
-	<li>The statement <i>"Anki is not a bucket, anki a pipe"</i> is a guiding mental model to help properly conceive of the nature of spaced repetition systems (SRS)</li>
+	<li>The statement <i>"Anki is not a bucket, it is a pipe"</i> is a guiding mental model to help properly conceive of the nature of spaced repetition systems (SRS)</li>
 	<li>It is not specific to only the Anki™ implementation of an SRS.</li>
 	<li>It is usually the case that knowledge (of whatever kind) "sits", stagnant as a sprawl of text, on the pages of books and in bookshelves</li>
 	<li>Or it is the case that the knowledge is in/as the voice of a speaker</li>
