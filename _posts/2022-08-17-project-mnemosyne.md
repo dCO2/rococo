@@ -79,7 +79,7 @@ For various reasons that will be explained in this essay, I chose to work with A
 - Make subject of learning integral to one's personality;
 - Gain introductory experience behind the basic insights that the field, _Memory Augmentation with Technology_ builds upon.
 
-(It is important to note that the bulk of the work on this project was actually in the observing of my 'user-experience' while learning a few topics through various information media and noticing what could be done for a more streamlined experience. This is not an actual Design Project because specific research, conception, prototyping and implementation of some proposed SRS was not done. The outcome of the project is chiefly an introductory experience of the basic insights that the field of Memory Augmentation builds upon)
+(It is important to note that the bulk of the work on this project was actually in the observing of my 'user-experience' while learning a few topics through various information media and noticing what could be done for a more streamlined experience. This is not an actual Design Project because specific research, conception, prototyping and implementation of some proposed SRS was not done. The outcome of the project is chiefly an introductory experience of the basic insights/principles that the field of Memory Augmentation builds upon)
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2. How I use Anki</a>
 
