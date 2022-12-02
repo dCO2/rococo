@@ -19,6 +19,7 @@ tags:
       <ul style="margin-top:0; margin-bottom:0;">
         <li>What is Spaced Repetition?</li>
         <li>What is Anki?</li>
+        <li>Project's Aims</li>
       </ul>
     <li><a href="/2022/08/17/project-mnemosyne#2-how-i-use-anki">How I use Anki</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
@@ -68,6 +69,17 @@ For various reasons that will be explained in this essay, I chose to work with A
 
 ### What is Anki?
 [Anki is basically a todo-app on steroids](/2022/09/02/anki-as-stream-of-urgent-todos). This, though, is an oversimplification. (Pray the program engineers don't come for my head.) Anki helps schedule 'tasks' which are displayed as flashcards to the user. A task in this sense is the actual act of repeatedly recalling something. If, for example, you need to remember the name of an obscure animal you just discovered, you can create a 'task' that has a picture of the animal and regularly asks you—daily or weekly or specified by some deterministic formula—what its name is. Your job then is to provide the name by trying to recall it. A task is not limited to recall though. It could be a physical action you must perform such as an exercise. (We want to think about the concept of SRS systems unrestrictedly)
+
+### Project's Aims
+- Master using SRS (aka. Anki) to remember bits of information;
+- Improve speed of recall;
+- Actively keep track of thoughts;
+- Learn how to think about a good number of chunked information simultaneously so that relationships between the various information can be easily drawn-out;
+- Use SRS to help make it easier to take-up MOOCs;
+- Make subject of learning integral to one's personality;
+- Gain introductory experience behind the basic insights that the field, _Memory Augmentation with Technology_ builds upon.
+
+(It is important to note that the bulk of the work on this project was actually in the observing of my 'user-experience' while learning a few topics through various information media and noticing what could be done for a more streamlined experience. This is not an actual Design Project because specific research, conception, prototyping and implementation of some proposed SRS was not done. The outcome of the project is chiefly an introductory experience of the basic insights that the field of Memory Augmentation builds upon)
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">2. How I use Anki</a>
 
