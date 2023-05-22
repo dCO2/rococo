@@ -48,7 +48,7 @@ tags:
   </ol>
 </details>
 
-![](../assets/images/silence-of-the-sea.jpeg)
+![](/assets/images/silence-of-the-sea.jpeg)
 _Silence of the Sea_ by Bang Hai Ja, 2005
 
 ## <a href="/2022/08/17/project-mnemosyne#" style="text-decoration: none;">1. Intro</a>
