@@ -13,7 +13,7 @@ body {
     font-family: 'LMRomanDunh10', sans-serif;
     font-family: 'LMRomanSlant10', sans-serif;
     font-family: 'LMRomanDemi10', sans-serif; */
-    background-color: #fff8e7;
+    background-color: #dcdcdc;
     text-align: left;
     font-size: 14px;
 
@@ -103,7 +103,7 @@ th {
 }
 
 td {
-    padding 0.4em 0 0 10px;
+    padding: 0.4em 0 0 10px;
 }
 
 thead {
