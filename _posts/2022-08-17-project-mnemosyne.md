@@ -13,7 +13,7 @@ tags:
 `remarks: work in progress`  
 
 <details>
-  <summary><h2><a>List of Content</a></h2></summary>
+  <summary><h2 style="text-decoration: underline;">List of Content</h2></summary>
   <ol>
     <li><a href="/2022/08/17/project-mnemosyne#1-intro">Intro</a></li>
       <ul style="margin-top:0; margin-bottom:0;">
