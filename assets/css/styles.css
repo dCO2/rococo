@@ -17,6 +17,11 @@ body {
     text-align: left;
     font-size: 14px;
 
+    /* background-color:hsla(0,100%,50%,0.22);
+    background-image: radial-gradient(at 52% 96%, hsla(217,73%,76%,0.72) 0px, transparent 50%), radial-gradient(at 54% 0%, hsla(28,100%,74%,0.52) 0px, transparent 50%), radial-gradient(at 75% 0%, hsla(189,100%,56%,0.64) 0px, transparent 50%), radial-gradient(at 0% 67%, hsla(355,100%,93%,0.58) 0px, transparent 50%), radial-gradient(at 80% 95%, hsla(240,52%,83%,0.46) 0px, transparent 50%), radial-gradient(at 0% 0%, hsla(341,12%,83%,0.55) 0px, transparent 50%); */
+
+    background-color:hsla(57,87%,75%,0.17);
+    background-image: radial-gradient(at 52% 96%, hsla(217,73%,76%,0.72) 0px, transparent 50%), radial-gradient(at 54% 0%, hsla(28,100%,74%,0.52) 0px, transparent 50%), radial-gradient(at 75% 0%, hsla(189,100%,56%,0.38) 0px, transparent 50%), radial-gradient(at 0% 67%, hsla(355,100%,93%,0.58) 0px, transparent 50%), radial-gradient(at 80% 95%, hsla(359,67%,63%,0.27) 0px, transparent 50%), radial-gradient(at 0% 0%, hsla(341,100%,92%,0.55) 0px, transparent 50%);
 }
 
 .inlne-nav {
