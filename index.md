@@ -9,7 +9,7 @@ title: Home
 <h1 style="background-color: #00ffef40;display: inline;"><em>Hello—</em></h1>
 
 - I'm Caleb. I work as a Software Engineer. And sometimes an essayist.
-- I work on _Data_, & _Front-end_ systems, elaborating my thoughts around software engineering & tech as essays.
+- I work on _Data_, & _Front-end_ systems, elaborating my thoughts around software engineering & tech using essays.
 - I'm interested in building tools that optimize learning and [expand what people can think and do](https://numinous.productions/ttft/).  
 
 
