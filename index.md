@@ -13,7 +13,7 @@ title: Home
 - I'm interested in building tools that optimize learning and [expand what people can think and do](https://numinous.productions/ttft/).  
 
 
-You can find a selection of my projects [here](/projects/). In the spirit of "[working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)," [here](/notes/) is my (slapdash) public notebook. _(This website is a work-in-progress)_
+You can find a selection of my projects [here](https://caleb-d0.netlify.app/notes/113c6c5np8cuub04vh4vvj4/). In the spirit of "[working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)," [here](/notes/) is my (outdated) public notebook. _(This website is a work-in-progress)_
 
 <span style="font-size: 0.9em;text-align: right !important;"><a href="https://caleb-d0.netlify.app/notes/113c6c5np8cuub04vh4vvj4/" style="text-decoration: none;">PROJECTS</a> | <a href="/booknotes/" style="text-decoration: none;">BOOK-NOTES</a> | <a href="/essays/" style="text-decoration: none;">ESSAYS</a> | <a href="https://caleb-d0.netlify.app/" style="text-decoration: none;">NOTEBOOK</a> | <a href="/resume.pdf/" style="text-decoration: none;">RESUME</a></span>
 
